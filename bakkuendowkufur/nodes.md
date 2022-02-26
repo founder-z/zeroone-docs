@@ -1,6 +1,6 @@
 # Nodes
 
-Zero One contains custom n8n with 3 additional nodes, which allows you to write custom business logic depending on data inside Zero One.
+Zero One contains 3 custom n8n nodes, which allow you to write business logic depending on data inside Zero One database
 
 ### ZeroOne Trigger
 
