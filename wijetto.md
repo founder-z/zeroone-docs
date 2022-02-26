@@ -1,7 +1,7 @@
-# ウィジェット
-
-ウィジットとは、複数の場所で使用可能なグループのことです。これは同じグループを頻繁に使用する際に役立ちます。エレメント単体を保存してデフォルト化することができる「スタイル」とは異なり、「ウィジット」は複数のエレメントの組み合わせを保存することができます。
-
-## ウィジェットの追加
-
-ウィジットは「ウィジットの追加」の左横にあるプラスボタンから「ウィジットの名前を追加」を記入して作成することが出来ます。ウィジットとして追加された要素はエディター＞パレット＞カスタム　から選択することが出来ます。
+# Widget
+
+A widget is a group that can be used in multiple locations. This is useful if you use the same group frequently. Unlike \"styles\", where you can save a single element and make it the default, \"widgets\" can store a combination of multiple elements.
+
+## Add widget
+
+Widgets can be created by filling in \"Add Widget Name\" from the plus button to the left of \"Add Widget\". Elements added as widgets can be selected from Editor\> Palettes\> Custom.

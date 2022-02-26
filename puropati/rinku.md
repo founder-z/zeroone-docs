@@ -1,5 +1,5 @@
-# リンク
-
-## リンク先URL
-
-静的、または、動的にURLを設定することでボタンを押した後に指定のリンク先に遷移させることができます。
+# Link
+
+## Link URL
+
+By setting the URL statically or dynamically, you can transition to the specified link destination after pressing the button.

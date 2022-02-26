@@ -1,11 +1,11 @@
-# 高さと幅
-
-高さ/幅はエディターページ＞外観＞サイズ　から設定することができます。数値はpx,rem,em,%などの値で表現します。
-
-### strech
-
-親要素の幅いっぱいにエレメントを広げることができます。
-
-### hug-content
-
-幅を要素に合わせた幅に設定することができます。
+# Height and width
+
+The height / width can be set from the editor page\> Appearance\> Size. Numerical values are represented by values such as px, rem, em,%.
+
+### strech
+
+You can extend the element to the full width of the parent element.
+
+### hug-content
+
+You can set the width to fit the element.

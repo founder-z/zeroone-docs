@@ -1,15 +1,15 @@
-# 基本設定
-
-## コンテンツ
-
-テキストエレメントはテキストを動的、または静的に記入することができます。
-
-## ツールチップ
-
-ホバー時に表示されるエレメントを静的、または、動的に入力することができます。
-
-## ワークフロー
-
-「新規作成」をクリックすると、新たにボタンに対してワークフローを設定することができます。
-
-##
+# basic setting
+
+## content
+
+Text elements can fill text dynamically or statically.
+
+## Tooltip
+
+You can enter the element displayed when hovering statically or dynamically.
+
+## Workflow
+
+Click \"New\" to set a new workflow for the button.
+
+## 

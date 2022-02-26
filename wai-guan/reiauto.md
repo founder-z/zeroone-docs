@@ -1,30 +1,29 @@
-# レイアウト
-
-## 垂直
-
-親要素に対して、子要素の垂直配置を決めることができます。
-
-### エレメントの間隔
-
-エレメント同士の間隔をpx、rem、emを用いて定義することができます。
-
-### ラップ
-
-子要素が親要素に入るように子要素を折り返して表示することができます。
-
-## 水平
-
-親要素に対して、子要素の水平配置を決めることができます。
-
-### 列の配置
-
-列同士の間隔をpx、rem、emを用いて定義することができます。
-
-### ラップ
-
-子要素が親要素に入るように子要素を折り返して表示することができます。
-
-## フリー
-
-親要素の中で子要素を自由に配置することができます。
-
+# Layout
+
+## vertical
+
+You can determine the vertical placement of the child elements with respect to the parent element.
+
+### Element spacing
+
+The spacing between elements can be defined using px, rem, em.
+
+### wrap
+
+You can wrap the child element so that it fits in the parent element.
+
+## Horizontal
+
+You can determine the horizontal placement of the child elements with respect to the parent element.
+
+### Column placement
+
+You can define the spacing between columns using px, rem, em.
+
+### wrap
+
+You can wrap the child element so that it fits in the parent element.
+
+## free
+
+You can freely arrange child elements within the parent element.

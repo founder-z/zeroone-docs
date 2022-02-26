@@ -1,5 +1,5 @@
-# バックエンドワークフロー
-
-バックエンドワークフローを利用すると、さまざまなAPIを使用して全てのアプリを相互接続しコードなしでデータの共有、操作をすることができます。
-
-現在のバックエンドワークフローはn8nというサービスのワークフロー自動化ツールを使用しているため操作の詳細についてはn8n Docsから参照してください。
+# Backend workflow
+
+Back-end workflows allow you to interconnect all your apps using a variety of APIs to share and manipulate data without code.
+
+The current backend workflow uses a workflow automation tool for services called n8n, so see n8n Docs for operational details.

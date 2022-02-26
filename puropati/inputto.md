@@ -1,70 +1,69 @@
-# インプット
-
-## デフォルト値
-
-フォームに入っている値の初期値を設定することができます。
-
-## プレースホルダー
-
-あらかじめ表示されている単語やフレーズを表示します。
-
-## データ型
-
-データ型を選択するとtext、number、tel、url、week、password、file、date、datetime-local、time、mothを選択することができます。
-
-### text型
-
-テキストを入力するためのデータ型です。
-
-### number型
-
-数字を入力するためのデータ型です。
-
-### tel型
-
-電話番号を入力するためのデータ型です。
-
-### url型
-
-urlを入力するためのデータ型です。
-
-### week型
-
-第何週かを入力するためのデータ型です。
-
-### password型
-
-パスワードを入力するためのデータ型です。
-
-### file型
-
-ファイルを入力するためのデータ型です。
-
-### date型
-
-日付を入力するためのデータ型です。
-
-### datetime-local型
-
-年、月、日、時、分、秒を選択するためのデータ型です。
-
-### time型
-
-分、秒のみを入力するためのデータ型です。
-
-### month型
-
-年月のみを入力するためのデータ型です。
-
-## 日付のフォーマット
-
-カレンダーの日付をカスタマイズすることができます。
-
-## 非表示のフォーマット
-
-時間の表示・非表示を切り替えることができます。
-
-## 時間のフォーマット
-
-カレンダーの時間の表示をカスタマイズすることができます。
-
+# input
+
+## Default value
+
+You can set the initial value of the value contained in the form.
+
+## Placeholder
+
+Displays pre-displayed words and phrases.
+
+## Data type
+
+When you select the data type, you can select text, number, tel, url, week, password, file, date, datetime-local, time, moth.
+
+### text type
+
+A data type for entering text.
+
+### number type
+
+A data type for entering numbers.
+
+### tel type
+
+A data type for entering a phone number.
+
+### url type
+
+The data type for entering the url.
+
+### week type
+
+A data type for entering the number of weeks.
+
+### password type
+
+A data type for entering a password.
+
+### file type
+
+The data type for entering the file.
+
+### date type
+
+A data type for entering a date.
+
+### datetime-local type
+
+A data type for selecting year, month, day, hour, minute, and second.
+
+### time type
+
+A data type for entering only minutes and seconds.
+
+### month type
+
+This is a data type for entering only the year and month.
+
+## Date format
+
+You can customize the date on the calendar.
+
+## Hidden format
+
+You can switch between showing and hiding the time.
+
+## Time format
+
+You can customize the display of time on the calendar.

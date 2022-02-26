@@ -1,31 +1,31 @@
-# 変数
-
-グローバル、ウィジェット、ページ単位で変数を作成することができます。変数の値はページがリロードされたと同時に初期値にもどります。
-
-### 名前
-
-変数の名前を入力します。
-
-### データ型
-
-データ型を入力します。
-
-### 演算
-
-変数雨の値を動的にすることができます。
-
-### デフォルト値
-
-変数の値の初期値を決めることができます。
-
-## グローバル変数
-
-ページに関係なく指定することができる変数です。
-
-## ウィジェット変数
-
-ウィジェットごとに指定する変数です。
-
-## ページ変数
-
-ページごとに指定する変数です。
+# variable
+
+You can create variables on a global, widget, or page basis. The value of the variable returns to its initial value as soon as the page is reloaded.
+
+### name
+
+Enter the name of the variable.
+
+### Data type
+
+Enter the data type.
+
+### Calculation
+
+You can make the variable rain value dynamic.
+
+### Default value
+
+You can determine the initial value of the variable.
+
+## Global variables
+
+A variable that can be specified regardless of the page.
+
+## Widget variable
+
+This is a variable specified for each widget.
+
+## Page variables
+
+This is a variable specified for each page.

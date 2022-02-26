@@ -1,65 +1,65 @@
-# 書式
-
-プロジェクトで使用するすべてのテキストの、デフォルトの書式スタイルを定義することができます。
-
-## テキストの色
-
-テキストの色は、エディターページ＞外観＞書式＞色　から設定することができます。色の設定は、[RGBA](wai-guan/se.md#rgba-zhi)と[HEX](wai-guan/se.md#hex-zhi)で行うことができます。
-
-## フォントファミリー
-
-フォントファミリーは、エディターページ＞外観＞書式＞フォント から設定することができます。
-
-### フォントの種類
-
-ゼロワンでは、Noto sans jpやLatoなど多岐にわたるフォントファミリーを使う事が出来ます。
-
-## 太さ
-
-太さは、エディターページ＞外観＞書式＞太さ　から設定することができます。
-
-### 太さの種類
-
-太さの種類は細字、ノーマル、中、中太、太字の全５種類です。
-
-## サイズ
-
-フォントサイズは、エディターページ＞外観＞書式＞サイズ　から設定することができます。フォントサイズは、px,rem,em,%で表現されます。
-
-## 配置
-
-テキストの配置を左、中心、右で変更する事が出来ます。
-
-### ジャスティファイ
-
-要素の均等割をする事が出来ます。
-
-## 装飾
-
-文字を装飾します。
-
-### ノーマル
-
-初期設定です。文字の装飾をノーマルにします。
-
-### イタリック
-
-文字の装飾をイタリックに変更します。
-
-### 下線
-
-テキストに下線を引きます。
-
-### スルー
-
-テキスト上に棒線を引きます。
-
-## 線の高さ/字送り
-
-### 線の高さ
-
-「字送り」は、文字の幅を設定します。これは主にテキストの文字間を設定するために使用します。
-
-### 字送り
-
-字送りを設定します。
+# Format
+
+You can define a default formatting style for all the text you use in your project.
+
+## Text color
+
+You can set the text color from Editor Page\> Appearance\> Format\> Color. Color settings can be made with [RGBA](wai-guan/se.md#rgba-zhi) and [HEX](wai-guan/se.md#hex-zhi) .
+
+## Font family
+
+Font families can be set from the editor page\> Appearance\> Format\> Fonts.
+
+### Font type
+
+At Zero One, you can use a wide variety of font families such as Noto sans jp and Lato.
+
+## The thickness
+
+The thickness can be set from Editor Page\> Appearance\> Format\> Thickness.
+
+### Kind of thickness
+
+There are five types of thickness: fine, normal, medium, medium, and bold.
+
+## size
+
+The font size can be set from Editor Page\> Appearance\> Format\> Size. The font size is represented by px, rem, em,%.
+
+## Placement
+
+You can change the text layout on the left, center, and right.
+
+### Justify
+
+You can evenly divide the elements.
+
+## Decoration
+
+Decorate the letters.
+
+### normal
+
+This is the initial setting. Makes the text decoration normal.
+
+### italic
+
+Change the text decoration to italic.
+
+### Underline
+
+Underline the text.
+
+### Through
+
+Draw a bar on the text.
+
+## Line height / distance
+
+### Line height
+
+\"Forecast\" sets the width of the characters. This is mainly used to set the character spacing of the text.
+
+### Letter spacing
+
+Set the character advance.

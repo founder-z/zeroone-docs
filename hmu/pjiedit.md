@@ -1,63 +1,57 @@
-# ページエディター
-
-ゼロワンに搭載されているエディターを使用して、アプリを設計、構築、保守、およびスケーリングをします。エディターはこちらで示されているタブを使用して構築していきます。
-
-## メインタブ
-
-### \[エディター]タブ
-
-\[エディター]タブでは、ここで、アプリの外観をデザインします。ページ上に要素を描画し、ドラッグしてサイズを変更し、デザインを調整します。
-
-&#x20; 新しい要素を追加するには、左側のパレットからエレメントをページ内にドラッグ&ドロップして挿入します。要素をクリックすると、右側のプロパティエディタが表示され編集できるようになります。 また、エレメントを右クリックすると「コピー」、「カット」、「ペースト」、「削除」が表示され、簡単に編集をすることが出来ます。
-
-### \[スタイル]タブ
-
-\[スタイル]タブでは、エレメントのスタイルの初期設定を変更することができます。ここで設定されたエレメントはエディターのパレットからドラッグ&ドロップされる際にこちらで設定した初期設定が反映されます。
-
-### \[ウィジェット]タブ
-
-\[ウィジェット]タブでは、ここでエレメント同士の組み合わせた状態でスタイルの初期設定を変更することができます。ここで設定されたエレメントはエディターのパレットの「カスタム」から選択することができます。
-
-### \[レスポンシブ]タブ
-
-\[レスポンシブ]タブでは、レスポンシブの設定をします。レスポンシブデザインでは、ブレイクポイントを利用して、画面サイズに応じてページやコンポーネントの見え方を変えることができます。
-
-### \[書式]タブ
-
-\[書式]タブでは、プロジェクトで使用する全てのテキストのデフォルトの書式スタイルを定義することができます。
-
-### \[データベース]タブ
-
-\[データ]タブでは、データ構造を表示して変更できます。アプリケーションで使用されているさまざまなデータ型と、フィールドを確認することができます。「アプリデータ」には実際のデータが表示されます。
-
-### \[Storage]タブ
-
-\[Storage]タブでは、ゼロワン内に画像ファイルをアップロード、更新をし、管理をすることができます。
-
-### \[変数]タブ
-
-\[変数]タブでは、変数をグローバル、ウィジェット、ページごとに作成、編集をすることができます。
-
-### \[ワークフロー]タブ
-
-\[ワークフロー]タブでは、ワークフローをグローバル、ウィジェット、ページごとに作成、編集をすることができます。ワークフローでは主にログインの処理、データベース関連の処理、ページ間の移動などの処理の設定に用いります。
-
-### \[バックエンドワークフロー]タブ
-
-\[バックエンドワークフロー]タブでは、Webサービス同士を連携させることができ、トリガーとアクションを組み合わせることで，様々なワークフローをプログラミングなしで構築することができます。
-
-### \[翻訳]タブ
-
-\[翻訳]タブでは、ゼロワンで表示されるエラー文の言語を設定します。
-
-### \[設定]タブ
-
-\[設定]タブではファビコンの設定や、エディター内言語の設定を行うことができます。
-
-
-
-
-
-
-
-####
+# Page editor
+
+Design, build, maintain, and scale your app using the editor included with Zero One. The editor will be built using the tabs shown here.
+
+## Main tab
+
+### Editor tab
+
+On the Editor tab, design the look of your app here. Draw an element on the page and drag it to resize and adjust the design.
+
+To add a new element, drag and drop the element into the page from the palette on the left to insert it. Clicking on an element will bring up the property editor on the right and allow you to edit it. Also, if you right-click the element, \"Copy\", \"Cut\", \"Paste\", and \"Delete\" will be displayed, and you can easily edit it.
+
+### Style tab
+
+The Style tab allows you to change the default style of the element. The element set here reflects the initial setting set here when dragging and dropping from the palette of the editor.
+
+### Widget tab
+
+On the Widgets tab, you can change the style defaults here with the elements combined. The element set here can be selected from \"Custom\" in the editor palette.
+
+### Responsive tab
+
+On the Responsive tab, set the responsive settings. Responsive design allows you to take advantage of breakpoints to change the look of your pages and components depending on your screen size.
+
+### Format tab
+
+The Format tab allows you to define a default formatting style for all text used in your project.
+
+### Database tab
+
+The Data tab allows you to view and modify the data structure. You can see the various data types and fields used in your application. The actual data is displayed in \"App data\".
+
+### Storage tab
+
+On the Storage tab, you can upload, update, and manage image files within Zero One.
+
+### Variables tab
+
+The Variables tab allows you to create and edit variables globally, on a widget-by-page basis.
+
+### Workflow tab
+
+The Workflow tab allows you to create and edit workflows globally, widgets, and page by page. In the workflow, it is mainly used to set the login process, database related process, and process such as moving between pages.
+
+### Backend Workflow tab
+
+On the Backend Workflow tab, you can link Web services together, and by combining triggers and actions, you can build various workflows without programming.
+
+### Translation tab
+
+On the \[Translation\] tab, set the language of the error sentence displayed in Zero One.
+
+### Settings tab
+
+On the \[Settings\] tab, you can set the favicon and the language in the editor.
+
+#### 

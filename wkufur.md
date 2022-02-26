@@ -1,5 +1,5 @@
-# ワークフロー
-
-ここで、ユーザーがアプリを操作したときに何が起こるかを定義します。要素のクリック、テキスト入力、ログイン、または、ログアウトなどユーザーが行うアクションごとに作成をすることができます。
-
-アクションは、データを変更したり、変数の値を変更したりすることができます。ワークフローの詳細については、「ワークフローの構築ガイド」を参照してください。
+# Workflow
+
+Here you define what happens when the user interacts with your app. You can create it for each action the user takes, such as clicking an element, entering text, logging in, or logging out.
+
+Actions can change data and change the value of variables. For more information on workflows, see the Workflow Building Guide.

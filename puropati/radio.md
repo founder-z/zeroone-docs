@@ -1,13 +1,13 @@
-# radio
-
-## データ型
-
-データ型を選択するとradioとcheck boxを選択することができます。
-
-## check box
-
-check boxをクリックすると、中にチェックが表示され、選択されたことを意味します。
-
-## チェック済み
-
-チェックボックスの初期値を定義します。チェック済みおよび動的から選択します。
+# radio
+
+## Data type
+
+You can select radio and check box by selecting the data type.
+
+## check box
+
+If you click the check box, a check will be displayed inside, which means that it has been selected.
+
+## already checked
+
+Defines the initial value of the check box. Select from checked and dynamic.

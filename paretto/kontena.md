@@ -1,17 +1,17 @@
-# コンテナ
-
-## 水平ボックス
-
-初期設定でレイアウトが水平方向に設定されているエレメントです。このエレメントは主にエレメントのグループを作りたいときや、レスポンシブを設定する際に使用します。水平ボックスの中に他のエレメントを配置することもできます。
-
-## 垂直ボックス
-
-初期設定でレイアウトが垂直方向に設定されているエレメントです。このエレメントは主にエレメントのグループを作りたいときや、レスポンシブを設定する際に使用します。垂直ボックスの中に他のエレメントを配置することもできます。
-
-## 水平リピーター
-
-データベースをからデータを参照することでエレメントの繰り返し処理をすることが出来ます。
-
-## 垂直リピーター
-
-データベースからデータを参照することでエレメントの繰り返し処理を行うことができます。
+# container
+
+## Horizontal box
+
+An element whose layout is set horizontally by default. This element is mainly used when you want to create a group of elements or when you want to set responsiveness. You can also place other elements inside the horizontal box.
+
+## Vertical box
+
+An element whose layout is set vertically by default. This element is mainly used when you want to create a group of elements or when you want to set responsiveness. You can also place other elements inside the vertical box.
+
+## Horizontal repeater
+
+You can iterate over the elements by referencing the data from the database.
+
+## Vertical repeater
+
+You can iterate over the elements by referencing the data from the database.

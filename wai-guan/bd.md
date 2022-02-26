@@ -1,22 +1,22 @@
-# ボーダー
-
-ボーダーは、エディターページ＞外観＞ボーダー　から設定することができます。ボーダーを設定すると、ボーダーの表示（上、右、下、左）、幅、スタイル、色を表現することが出来ます。
-
-### ボーダーの表示
-
-上、右、下、左のうちどのボーダーを表示するかを設定することが出来ます。
-
-### ボーダー
-
-* **なし**：ボーダーを設定しません。デフォルトではなしになっています。　
-* **点線**：ボーダー点線で表示します。
-* **波線**：ボーダーを波線で表示します。　
-* **ソリッド**：ボーダーを線で表現します。
-
-### ボーダーの幅
-
-ボーダーの幅は、px,rem,emで設定することができる出来ます。
-
-### ボーダーの色
-
-ボーダーの色は、HEX値、RGBA値、デフォルトで構成されている色で表現することが出来ます。
+# border
+
+Borders can be set from Editor Page\> Appearance\> Borders. By setting a border, you can express the border display (top, right, bottom, left), width, style, and color.
+
+### Border display
+
+You can set which border to display, top, right, bottom, or left.
+
+### border
+
+-   **None** : No border is set. The default is none.
+-   **Dotted line** : Border Displayed as a dotted line.
+-   **Wavy line** : Displays the border as a wavy line.
+-   **Solid** : Represents the border with a line.
+
+### Border width
+
+The width of the border can be set with px, rem, em.
+
+### Border color
+
+Border colors can be represented by HEX values, RGBA values, and the colors that are configured by default.

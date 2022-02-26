@@ -1,5 +1,5 @@
-# 言語ドロップダウン
-
-## 言語設定
-
-翻訳＞アプリケーション言語　で言語を設定するとドロップダウンに表示される言語を増やすことができます。
+# Language dropdown
+
+## Language setting
+
+You can increase the number of languages displayed in the dropdown by setting the language in Translation\> Application Languages.

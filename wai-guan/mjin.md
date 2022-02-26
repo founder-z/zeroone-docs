@@ -1,7 +1,7 @@
-# マージン
-
-マージンは、エディターページ＞外観＞マージン　から設定することができます。マージンは定義されたボーダーの外側で、要素の周囲にスペースを作成するために使用されます。
-
-### マージンの種類
-
-マージンは上下左右で指定することができ、px,rem,em,%で表現されます。
+# margin
+
+Margins can be set from Editor Page\> Appearance\> Margins. Margins are outside the defined border and are used to create space around the element.
+
+### Margin type
+
+Margins can be specified up, down, left and right, and are expressed by px, rem, em,%.

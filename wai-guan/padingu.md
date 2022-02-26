@@ -1,11 +1,11 @@
-# パディング
-
-エディターページ＞外観＞パディング　から設定することができます。パディングは定義されたボーダーの内側で、要素の周囲にスペースを作成するために使用されます。
-
-### パディングの種類
-
-マージンは上下左右で指定することができ、px,rem,em,%で表現されます。初期設定では、0.5remが設定されています。
-
-### パディングと要素の幅
-
-エレメントに指定されたパディングがある場合実際のエレメントの幅は指定したエレメントの幅+左右パディングの幅になります。
+# Padding
+
+It can be set from the editor page\> Appearance\> Padding. Padding is used to create space around the element inside the defined border.
+
+### Types of padding
+
+Margins can be specified up, down, left and right, and are expressed by px, rem, em,%. By default, 0.5rem is set.
+
+### Padding and element width
+
+If the element has the specified padding, the actual width of the element will be the width of the specified element + the width of the left and right padding.

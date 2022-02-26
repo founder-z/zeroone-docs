@@ -1,3 +1,3 @@
-# カスタム
-
-ウィジットで作成されたエレメントを使用することができます。
+# custom
+
+You can use the elements created by the widget.

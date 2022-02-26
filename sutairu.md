@@ -1,26 +1,21 @@
-# スタイル
-
-## 登録されたスタイル
-
-登録されたスタイルの右端のプラスボタンを選択することでエレメントごとのスタイルを設定することが出来ます。
-
-## 編集
-
-登録されたスタイルの縦三点リーダーで選択することができます。スタイルの名前の変更や、デフォルト(スタイルを初期設定)にするのかを指定することができます。
-
-### 名前
-
-登録したいエレメントの名前を設定することができます。
-
-### デフォルト
-
-デフォルトにチェックをつけると、指定したエレメントのスタイルをデフォルトに変更することができます。
-
-## 削除
-
-スタイルを削除します。
-
-
-
-
-
+# style
+
+## Registered style
+
+You can set the style for each element by selecting the plus button at the right end of the registered style.
+
+## edit
+
+You can select it with the registered style vertical three-point reader. You can rename the style and specify whether it should be the default (the default style).
+
+### name
+
+You can set the name of the element you want to register.
+
+### Default
+
+If you check Default, you can change the style of the specified element to the default.
+
+## delete
+
+Delete the style.

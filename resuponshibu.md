@@ -1,27 +1,27 @@
-# レスポンシブ
-
-## レスポンシブデザイン
-
-レスポンシブデザインとは、閲覧ユーザーの使用デバイスに合わせてページレイアウトを調整するデザインのことを指します。ゼロワンではレスポンシブデザインをより簡単に設定することが出来ます。
-
-## デスクトップファースト
-
-ゼロワンでは、ブレイクポイントを設定することでレスポンシブデザインを表現します。アプリエディター上部に表示されるボタンをクリックするとボタンが赤くなり、設定したブレイクポイントの時のエレメントの状態を設定することができるようになります。
-
-## 新しいブレイクポイント
-
-新しいブレイクポイントは、レスポンシブ＞デスクトップファースト＞新しいブレイクポイント　から設定することができます。
-
-### アイコン
-
-アイコン(モバイル、タブレット、ラップトップ、デスクトップ)の設定は任意ですが、設定をすることでエディター内のレスポンシブ切り替えを容易にすることが出来ます。
-
-### ラベル
-
-ラベルは、新しく設定するブレイクポイントの名称を設定することができます。
-
-### 最大の幅
-
-それぞれブレイクポイントとなるpx数を「最大の幅」で設定し、ブレイクポイントを設定することができます。
-
-ここで設定された「最大の幅」をページ幅が下回る際にスタイルが変更されます。最大の幅が540pxなら540px以下の場合にスタイルが適応されます。
+# Responsive
+
+## Responsive design
+
+Responsive design refers to a design that adjusts the page layout to suit the device used by the browsing user. Zero One makes it easier to set up a responsive design.
+
+## Desktop first
+
+Zero One expresses responsive design by setting breakpoints. When you click the button displayed at the top of the app editor, the button turns red and you can set the state of the element at the set breakpoint.
+
+## New break point
+
+New breakpoints can be set from Responsive\> Desktop First\> New Breakpoints.
+
+### icon
+
+The settings for the icons (mobile, tablet, laptop, desktop) are optional, but you can make them easier to switch responsively in the editor.
+
+### label
+
+The label can set the name of the newly set breakpoint.
+
+### Maximum width
+
+You can set the breakpoints by setting the number of px that will be the breakpoints in the \"maximum width\".
+
+The style is changed when the page width is less than the \"maximum width\" set here. If the maximum width is 540px, the style will be applied if it is less than or equal to 540px.

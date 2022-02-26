@@ -1,27 +1,27 @@
-# 基本エレメント
-
-## テキスト
-
-テキストエレメントはテキストを動的、または静的に記入することができます。
-
-## ボタン
-
-ボタンエレメントは、ユーザーがワークフローをトリガーするためにクリックされる要素です。
-
-## リンク
-
-リンクエレメントは、ユーザーをアプリまたはWebサイトないのページに移動させる特別な要素です。
-
-## アイコン
-
-アイコンエレメントはプロパティから多岐にわたる種類のアイコンを無料で作成することができます。
-
-## 画像
-
-画像エレメントはプロパティのソースからファイルを選択することで画像を挿入することができます。
-
-## ビデオ
-
-mp4ファイルをアップロードするか、背景に使用する動的ビデオを選択します。
-
-##
+# Basic element
+
+## text
+
+Text elements can fill text dynamically or statically.
+
+## button
+
+Button elements are the elements that users click to trigger a workflow.
+
+## Link
+
+A link element is a special element that takes a user to a page in your app or website.
+
+## icon
+
+Icon elements can create a wide variety of icons from properties for free.
+
+## image
+
+Image elements can insert images by selecting a file from the property source.
+
+## video
+
+Upload an mp4 file or select a dynamic video to use as the background.
+
+## 

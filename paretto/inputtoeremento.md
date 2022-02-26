@@ -1,31 +1,31 @@
-# インプットエレメント
-
-## チェックボックス
-
-ラベル付きのチェックボックスを表示します。
-
-## ラジオボタン
-
-中抜きの円形ボタンのことです。radioをクリックすると、中に点が表示され、選択されたことを意味します。
-
-## インプット
-
-入力フォームで使用される入力欄です。
-
-## パスワード入力欄
-
-データ型がパスワードになっているデータ型の入力欄です。
-
-## 言語ドロップダウン
-
-言語を選択することができるドロップダウンです。
-
-## 日時インプット
-
-データ型が日時になっているデータ型の入力欄です。
-
-## ドロップダウン
-
-入力したい箇所を選択した時に、ドロップダウンのリスト項目から選んでデータを入力することができます。
-
-##
+# Input element
+
+## Checkbox
+
+Displays a labeled checkbox.
+
+## Radio button
+
+It is a circular button with a hollow. If you click on radio, a dot will appear inside, indicating that it has been selected.
+
+## input
+
+This is the input field used in the input form.
+
+## Password input field
+
+This is the data type input field where the data type is a password.
+
+## Language dropdown
+
+A dropdown that allows you to select a language.
+
+## Date and time input
+
+This is a data type input field where the data type is date and time.
+
+## drop down
+
+When you select the part you want to enter, you can select from the drop-down list items and enter the data.
+
+## 

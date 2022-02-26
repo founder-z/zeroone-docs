@@ -1,3 +1,3 @@
-# Storage
-
-写真やファイルをアップロードしたり編集、削除を行うことができます。
+# Storage
+
+You can upload, edit, and delete photos and files.

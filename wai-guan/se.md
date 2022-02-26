@@ -1,23 +1,23 @@
-# 色
-
-色は、RGBA 、HEXを使用して表現します。
-
-## 背景色
-
-背景色はエディターページ＞外観＞背景＞背景の色を追加　から設定することができます。
-
-### テキストの色
-
-テキストの色はエディターページ＞外観＞書式＞色　から設定することができます。
-
-### ボーダーの色
-
-ボーダーの色はエディターページ＞外観＞ボーダー＞色　で設定することができます。
-
-### RGBA値
-
-色をRGBA値として指定できます。RGB（赤、緑、青）は0\~255の割合で色を表現します。RGB(255,0,0)の場合は赤は最大値（255）に設定され、そのほかは０に設定されているため、赤として表示されます。
-
-### HEX値
-
-HEX値と呼ばれる16進数を用いて６桁の0〜9、a〜fの文字列で表現されます。また、場合によって３桁に省略して記述することもできます。
+# colour
+
+Colors are expressed using RGBA and HEX.
+
+## Background color
+
+The background color can be set from the editor page\> Appearance\> Background\> Add background color.
+
+### Text color
+
+You can set the text color from Editor Page\> Appearance\> Format\> Color.
+
+### Border color
+
+The border color can be set in Editor Page\> Appearance\> Border\> Color.
+
+### RGBA value
+
+You can specify the color as an RGBA value. RGB (red, green, blue) expresses colors at a ratio of 0 to 255. In the case of RGB (255,0,0), red is set to the maximum value (255), and the others are set to 0, so it is displayed as red.
+
+### HEX value
+
+It is represented by a 6-digit character string of 0 to 9 and a to f using a hexadecimal number called the HEX value. In some cases, it can be abbreviated to 3 digits.

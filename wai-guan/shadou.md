@@ -1,15 +1,15 @@
-# シャドウ
-
-エレメントの影を設定することができます。
-
-### シャドウのタイプ
-
-* **アウトセット**：エレメントの外側の影を設定します。
-* **インセット**：エレメントの内側の影を設定します。
-
-### シャドウの設定
-
-* **左**：左からの影を設定します。
-* **上**：上からの影を設定します。
-* **ぼかし**：影にぼかしを入れることができます。
-* **スプレッド**：影の広がりを設定することができます。
+# shadow
+
+You can set the shadow of the element.
+
+### Shadow type
+
+-   **Outset** : Sets the shadow outside the element.
+-   **Inset** : Sets the shadow inside the element.
+
+### Shadow settings
+
+-   **Left** : Set the shadow from the left.
+-   **Top** : Set the shadow from the top.
+-   **Blur** : You can add a blur to the shadow.
+-   **Spread** : You can set the spread of shadows.

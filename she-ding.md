@@ -1,57 +1,57 @@
-# 設定
-
-ゼロワンでの各種設定をすることができます。
-
-## 一般
-
-### エディター言語
-
-ゼロワンのエディター内の言語を指定することができます。
-
-### Favicon
-
-ゼロワンで作成したwebページのFaviconを設定することができます。
-
-## SEO
-
-### タイトル
-
-ゼロワンで作成したページのタイトルを設定することができます。
-
-### Site name
-
-webブラウザでみた時の、ゼロワンで作成したページの名前を設定することができます。
-
-### 説明
-
-webブラウザでみた時の、ゼロワンで作成したページの説明を設定することができます。
-
-## **PWA**
-
-### &#x20;**** 名前
-
-&#x20;PWAの名前を設定することができます。
-
-### Short name
-
-&#x20;PWAのサブの名前を設定することができます。
-
-### 説明
-
-&#x20;PWAの説明を設定することができます。
-
-### Theme Color
-
-&#x20;PWAのテーマカラーを設定することができます。
-
-### Display
-
-&#x20;PWAの見え方を設定することができます。
-
-### アイコン
-
-&#x20;PWAのアイコンをファイルから指定することができます。
-
-### **PWA shortcuts**
-
-&#x20;**PWA**を使いやすくするショートカットをプラスボタンから指定することができます。
+# Setting
+
+You can make various settings with Zero One.
+
+## General
+
+### Editor language
+
+You can specify the language in the Zero One editor.
+
+### Favicon
+
+You can set the Favicon of the web page created by Zero One.
+
+## SEO
+
+### title
+
+You can set the title of the page created by Zero One.
+
+### Site name
+
+You can set the name of the page created by Zero One when viewed with a web browser.
+
+### Explanation
+
+You can set the description of the page created by Zero One when viewed with a web browser.
+
+## **PWA**
+
+### \*\*\*\* name
+
+You can set the name of the PWA.
+
+### Short name
+
+You can set the name of the PWA sub.
+
+### Explanation
+
+You can set the PWA description.
+
+### Theme Color
+
+You can set the theme color of PWA.
+
+### Display
+
+You can set how the PWA looks.
+
+### icon
+
+You can specify the PWA icon from the file.
+
+### **PWA shortcuts**
+
+You can specify a shortcut that makes **PWA easier to use from the plus button.**

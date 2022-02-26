@@ -1,19 +1,18 @@
-# ゼロワンの紹介
-
-ゼロワンで作成することのできるアプリの種類と機能について詳細を見ることができます。
-
-## ゼロワンとは？
-
-ゼロワンは「ノーコード」でサイト制作やアプリ開発をすることができるツールです。特徴としては、
-
-1. API連携に特化していて他のアプリとの連携を容易に行うことができます。
-2. 純日本製のノーコードツールなので、英語の記述が一切ないため日本人にとってとても使いやすい設計になっています。
-
-このドキュメントでは、基本的なものから高度なものまでゼロワンについて説明をします。いますぐ、ゼロワンの学習を開始しましょう。
-
-## アプリケーション例
-
-社内ツール、個人プロジェクトなど、多くのWebアプリケーションをゼロワンで作ることができます。
-
-アプリケーション例としては、TodoアプリやAPI連携のアプリなどを作成するチュートリアル動画をご覧ください
-
+# Introduction of Zero One
+
+You can see details about the types and functions of apps that can be created with Zero One.
+
+## What is Zero One?
+
+Zero One is a tool that allows you to create sites and develop apps with \"no code\". As a feature,
+
+1.  It specializes in API linkage and can be easily linked with other apps.
+2.  Since it is a pure Japanese no-code tool, it is designed to be very easy for Japanese people to use because there is no description in English.
+
+This document describes Zero One, from basic to advanced. Start learning Zero One now.
+
+## Application example
+
+You can create many web applications such as in-house tools and personal projects with zero one.
+
+As an application example, please see the tutorial video for creating Todo apps and API-linked apps.

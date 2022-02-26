@@ -1,64 +1,63 @@
-# 条件付き外観
-
-エレメントにさまざまな状態を付与することができます。
-
-### フォーカスされた
-
-「フォーカスされた」とは、対象物が「次の操作」を受けられる状態になることです。「フォーカスされた」を選ぶことでフォーカスされた時のエレメントの状態を設定することが出来ます。
-
-### フォーカスされていない
-
-「フォーカスされていない」とは、対象物が「次の操作」を受け入れない状態になることです。「フォーカスされていない」を選ぶことでフォーカスされていない時のエレメントの状態を設定することが出来ます。
-
-### ホバーされた
-
-「ホバーされた」とは、エレメントに対してマウスカーソルを置いた状態のことです。「ホバーされた」を選ぶことでホバーされた時のエレメントの状態を設定することが出来ます。
-
-### ホバーされていない
-
-「ホバーされていない」とは、エレメントに対してマウスカーソルを置いていない状態のことです。「ホバーされていない」を選ぶことでホバーされていない時のエレメントの状態を設定することが出来ます。
-
-### プレスされた
-
-「プレスされた」とは、エレメントがアクティベート（活性化）された時の状態を表現するものです。「プレスされた」を選ぶことでプレスされた時のエレメントの状態を設定することが出来ます。
-
-### プレスされていない
-
-「プレスされていない」とは、エレメントがアクティベート（活性化）されていない時の状態を表現するものです。「プレスされていない」を選ぶことでプレスされていない時のエレメントの状態を設定することが出来ます。
-
-### フォーカス時にハイライトする
-
-「フォーカス時にハイライトする」とは、フォーカスされたエレメント以外の箇所を暗くして視認性を高めるものです。「フォーカス時にハイライトする」を選ぶことでフォーカス時にハイライトした時のエレメントの状態を設定することが出来ます。
-
-### フォーカス時にハイライトしない
-
-「フォーカス時にハイライトしない」とは、フォーカスされてもエレメント以外の箇所を暗くして視認性を高めないことです。「フォーカス時にハイライトしない」を選ぶことでフォーカス時にハイライトしていない時のエレメントの状態を設定することが出来ます。
-
-### 異なるフォーカスを表示しない
-
-「異なるフォーカスを表示しない」とは、フォーカスが変更されていない状態のことです。「異なるフォーカスを表示しない」を選ぶことでフォーカスが変更されていない時のエレメントの状態を設定することが出来ます。
-
-### カスタム条件を追加
-
-「カスタム条件を追加」は、エレメント自体に静的、または動的に条件を追加することができます。
-
-### ページ共通の条件を追加
-
-「ページ共通の条件を追加」は、ページ自体に静的、または動的に条件を追加することができます。
-
-### プロジェクト共通の条件を追加
-
-「プロジェクト共通の条件を追加」は、アプリ自体に静的、または動的に条件を追加することができます。
-
-### 変更を記録
-
-「変更を記録」を押すことで、その状態の時のデザインを設定することができます。設定が終わったら「変更を終了」を押すことで設定が保存されます。例）フォーカスされた状態の時に色を赤にする。
-
-### 条件適用時の外観をプレビュー
-
-目のアイコンを押すことで条件適用時の外観を見ることができます。
-
-### 削除
-
-条件付き外観を削除します。
-
+# Conditional appearance
+
+You can give the element different states.
+
+### Focused
+
+\"Focused\" means that the object is ready for the \"next operation\". By selecting \"Focus\", you can set the state of the element when it is focused.
+
+### Not focused
+
+\"Out of focus\" means that the object is in a state where it does not accept the \"next operation\". By selecting \"Not focused\", you can set the state of the element when it is not focused.
+
+### Hovered
+
+\"Hovered\" means that the mouse cursor is placed on the element. You can set the state of the element when it is hovered by selecting \"Hovered\".
+
+### Not hovered
+
+\"Not hovered\" means that the mouse cursor is not placed on the element. You can set the state of the element when it is not hovered by selecting \"Not hovered\".
+
+### Pressed
+
+\"Pressed\" describes the state when the element is activated. By selecting \"Pressed\", you can set the state of the element when it is pressed.
+
+### Not pressed
+
+\"Not pressed\" describes the state when the element is not activated. By selecting \"Not pressed\", you can set the state of the element when it is not pressed.
+
+### Highlight when in focus
+
+\"Highlight when in focus\" is to darken the parts other than the focused element to improve visibility. By selecting \"Highlight when focused\", you can set the state of the element when highlighted when focused.
+
+### Do not highlight when in focus
+
+\"Do not highlight when in focus\" means that even if it is focused, it does not darken the parts other than the element to improve visibility. By selecting \"Do not highlight when focusing\", you can set the state of the element when it is not highlighted when focusing.
+
+### Do not show different focus
+
+\"Do not show different focus\" means that the focus has not changed. By selecting \"Hide different focus\", you can set the state of the element when the focus is not changed.
+
+### Add custom conditions
+
+Add Custom Condition allows you to add conditions statically or dynamically to the element itself.
+
+### Added conditions common to pages
+
+\"Add conditions common to pages\" allows you to add conditions statically or dynamically to the page itself.
+
+### Added conditions common to projects
+
+\"Add project common conditions\" allows you to add conditions statically or dynamically to the app itself.
+
+### Record changes
+
+By pressing \"Record changes\", you can set the design in that state. When you have finished making settings, press \"Finish Changes\" to save the settings. Example) Set the color to red when the focus is on.
+
+### Preview the appearance when the condition is applied
+
+You can see the appearance when the condition is applied by pressing the eye icon.
+
+### delete
+
+Remove the conditional appearance.

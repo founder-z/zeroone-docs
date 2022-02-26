@@ -1,42 +1,41 @@
-# ポジション
-
-## オート
-
-オートは、エディターページ＞外観＞ポジション＞オート　から設定することができます。エレメントの配置を決める事が出きます。
-
-### オートの種類
-
-* **先頭に固定**：垂直位置を先端に固定します。
-* **中心に固定**：垂直位置を中心に固定します。
-* **末尾に固定**：垂直位置を末尾に固定します。
-* **拡張**：垂直位置を拡張して配置します。
-* **ベースライン**：要素のベースラインを親要素のベースラインに揃えます。
-
-### オーダー
-
-表示される順番を定義することができます。例えばオーダーが３のエレメントよりも２のエレメントの方が先に表示され、オーダーが２のエレメントよりも１のエレメントの方が先に表示されます。
-
-### Z定数
-
-優先度を定義します。2つ以上のエレメントが重なっている状態の時にどちらを上に表示させるかを定義する事が出来ます。2を定義したエレメントは１を定義したエレメントよりも上に表示されます。
-
-## フリー
-
-元のエレメントの場所からの距離を上下左右で指定します。
-
-### プッシュ
-
-* **左上にプッシュする**：左上に要素を固定します。
-* **右上にプッシュする**：右上に要素を固定します。
-* **右下にプシュする**：右下に要素を固定します。
-* **左下にプッシュする**：左下に要素を固定します。
-* **上にプッシュする**：上に要素を固定します。
-* **右にプッシュする**：右に要素を固定します。
-* **下にプッシュする**：下に要素を固定します。
-* **左にプッシュする：**左に要素を固定します。
-* **カバー**：要素を背面に固定します。
-
-### Z定数
-
-優先度を定義します。2つ以上のエレメントが重なっている状態の時にどちらを上に表示させるかを定義する事が出来ます。2を定義したエレメントは１を定義したエレメントよりも上に表示されます。
-
+# position
+
+## Auto
+
+Auto can be set from Editor Page\> Appearance\> Position\> Auto. You can decide the arrangement of the elements.
+
+### Auto type
+
+-   **Fixed to the beginning** : The vertical position is fixed to the tip.
+-   **Fixed** to center: Fixes the vertical position to the center.
+-   **Fixed** to end: Fixes the vertical position to the end.
+-   **Extend** : Extend and place the vertical position.
+-   **Baseline** : Aligns the baseline of the element with the baseline of the parent element.
+
+### order
+
+You can define the order in which they are displayed. For example, an element with an order of 3 is displayed earlier than an element with an order of 2, and an element with an order of 1 is displayed before an element with an order of 2.
+
+### Z constant
+
+Defines the priority. You can define which one to display on top when two or more elements overlap. Elements that define 2 are displayed above the elements that define 1.
+
+## free
+
+Specify the distance from the original element location up, down, left, and right.
+
+### push
+
+-   **Push to the** upper left: Pins the element to the upper left.
+-   **Push to the** upper right: Pins the element to the upper right.
+-   **Push to the** bottom right: Secures the element to the bottom right.
+-   **Push to** bottom left: Secures the element to the bottom left.
+-   **Push Up** : Secures the element on top.
+-   **Push to the** right: Pins the element to the right.
+-   **Push Down** : Secures the element below.
+-   **Push to the** left: Pins the element to the left.
+-   **Cover** : Secures the element to the back.
+
+### Z constant
+
+Defines the priority. You can define which one to display on top when two or more elements overlap. Elements that define 2 are displayed above the elements that define 1.

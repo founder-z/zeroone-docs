@@ -1,15 +1,15 @@
-# 翻訳
-
-翻訳では、ゼロワン内での言語設定をすることができます。対応している言語は、日本語、英語、中国語など多岐にわたる言語があります。
-
-### アプリケーション言語
-
-ゼロワン内での言語を指定します。言語を指定すると一度リロードされてゼロワン内での全ての言語が指定した言語になります。
-
-### アプリケーションの主な言語
-
-アプリケーション言語で指定した言語がここに反映されます。
-
-### 翻訳設定をCSVにエクスポート/インポート
-
-翻訳の設定をCSVにてエクスポート/インポートすることができます。
+# translation
+
+In translation, you can set the language within Zero One. We support a wide variety of languages such as Japanese, English, and Chinese.
+
+### Application language
+
+Specifies the language within Zero One. If you specify a language, it will be reloaded once and all languages in Zero One will be the specified language.
+
+### The main language of the application
+
+The language specified in the application language is reflected here.
+
+### Export / import translation settings to CSV
+
+You can export / import translation settings in CSV format.

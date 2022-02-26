@@ -1,5 +1,5 @@
-# ドロップダウン
-
-## オプション
-
-静的または、動的にドロップダウンの項目の値を設定することができます。
+# drop down
+
+## option
+
+You can set the value of the dropdown item statically or dynamically.
