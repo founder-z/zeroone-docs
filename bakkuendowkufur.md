@@ -6,7 +6,7 @@ The current backend workflow uses a workflow automation tool for services called
 
 
 
-Current default n8n is run with folliwing configuration:
+Current default n8n service is run with following configuration:
 
 | Name                                         | Value                         |   |
 | -------------------------------------------- | ----------------------------- | - |
