@@ -1,15 +1,1 @@
-# shadow
-
-You can set the shadow of the element.
-
-### Shadow type
-
--   **Outset** : Sets the shadow outside the element.
--   **Inset** : Sets the shadow inside the element.
-
-### Shadow settings
-
--   **Left** : Set the shadow from the left.
--   **Top** : Set the shadow from the top.
--   **Blur** : You can add a blur to the shadow.
--   **Spread** : You can set the spread of shadows.
+# ShadowYou can set the shadow of the element.### Shadow type-   **Outset** : Sets the shadow outside the element.-   **Inset** : Sets the shadow inside the element.### Shadow settings-   **Left** : Set the shadow from the left.-   **Top** : Set the shadow from the top.-   **Blur** : You can add a blur to the shadow.-   **Spread** : You can set the spread of shadows.

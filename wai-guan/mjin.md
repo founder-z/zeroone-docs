@@ -1,7 +1,1 @@
-# margin
-
-Margins can be set from Editor Page\> Appearance\> Margins. Margins are outside the defined border and are used to create space around the element.
-
-### Margin type
-
-Margins can be specified up, down, left and right, and are expressed by px, rem, em,%.
+# MarginMargins can be set from Editor Page\> Appearance\> Margins. Margins are outside the defined border and are used to create space around the element.### Margin typeMargins can be specified up, down, left and right, and are expressed by px, rem, em,%.

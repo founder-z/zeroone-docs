@@ -1,63 +1,1 @@
-# Conditional appearance
-
-You can give the element different states.
-
-### Focused
-
-\"Focused\" means that the object is ready for the \"next operation\". By selecting \"Focus\", you can set the state of the element when it is focused.
-
-### Not focused
-
-\"Out of focus\" means that the object is in a state where it does not accept the \"next operation\". By selecting \"Not focused\", you can set the state of the element when it is not focused.
-
-### Hovered
-
-\"Hovered\" means that the mouse cursor is placed on the element. You can set the state of the element when it is hovered by selecting \"Hovered\".
-
-### Not hovered
-
-\"Not hovered\" means that the mouse cursor is not placed on the element. You can set the state of the element when it is not hovered by selecting \"Not hovered\".
-
-### Pressed
-
-\"Pressed\" describes the state when the element is activated. By selecting \"Pressed\", you can set the state of the element when it is pressed.
-
-### Not pressed
-
-\"Not pressed\" describes the state when the element is not activated. By selecting \"Not pressed\", you can set the state of the element when it is not pressed.
-
-### Highlight when in focus
-
-\"Highlight when in focus\" is to darken the parts other than the focused element to improve visibility. By selecting \"Highlight when focused\", you can set the state of the element when highlighted when focused.
-
-### Do not highlight when in focus
-
-\"Do not highlight when in focus\" means that even if it is focused, it does not darken the parts other than the element to improve visibility. By selecting \"Do not highlight when focusing\", you can set the state of the element when it is not highlighted when focusing.
-
-### Do not show different focus
-
-\"Do not show different focus\" means that the focus has not changed. By selecting \"Hide different focus\", you can set the state of the element when the focus is not changed.
-
-### Add custom conditions
-
-Add Custom Condition allows you to add conditions statically or dynamically to the element itself.
-
-### Added conditions common to pages
-
-\"Add conditions common to pages\" allows you to add conditions statically or dynamically to the page itself.
-
-### Added conditions common to projects
-
-\"Add project common conditions\" allows you to add conditions statically or dynamically to the app itself.
-
-### Record changes
-
-By pressing \"Record changes\", you can set the design in that state. When you have finished making settings, press \"Finish Changes\" to save the settings. Example) Set the color to red when the focus is on.
-
-### Preview the appearance when the condition is applied
-
-You can see the appearance when the condition is applied by pressing the eye icon.
-
-### delete
-
-Remove the conditional appearance.
+# Conditional appearanceYou can give the element different states.### Focused\"Focused\" means that the object is ready for the \"next operation\". By selecting \"Focus\", you can set the state of the element when it is focused.### Not focused\"Out of focus\" means that the object is in a state where it does not accept the \"next operation\". By selecting \"Not focused\", you can set the state of the element when it is not focused.### Hovered\"Hovered\" means that the mouse cursor is placed on the element. You can set the state of the element when it is hovered by selecting \"Hovered\".### Not hovered\"Not hovered\" means that the mouse cursor is not placed on the element. You can set the state of the element when it is not hovered by selecting \"Not hovered\".### Pressed\"Pressed\" describes the state when the element is activated. By selecting \"Pressed\", you can set the state of the element when it is pressed.### Not pressed\"Not pressed\" describes the state when the element is not activated. By selecting \"Not pressed\", you can set the state of the element when it is not pressed.### Highlight when in focus\"Highlight when in focus\" is to darken the parts other than the focused element to improve visibility. By selecting \"Highlight when focused\", you can set the state of the element when highlighted when focused.### Do not highlight when in focus\"Do not highlight when in focus\" means that even if it is focused, it does not darken the parts other than the element to improve visibility. By selecting \"Do not highlight when focusing\", you can set the state of the element when it is not highlighted when focusing.### Do not show different focus\"Do not show different focus\" means that the focus has not changed. By selecting \"Hide different focus\", you can set the state of the element when the focus is not changed.### Add custom conditionsAdd Custom Condition allows you to add conditions statically or dynamically to the element itself.### Added conditions common to pages\"Add conditions common to pages\" allows you to add conditions statically or dynamically to the page itself.### Added conditions common to projects\"Add project common conditions\" allows you to add conditions statically or dynamically to the app itself.### Record changesBy pressing \"Record changes\", you can set the design in that state. When you have finished making settings, press \"Finish Changes\" to save the settings. Example) Set the color to red when the focus is on.### Preview the appearance when the condition is appliedYou can see the appearance when the condition is applied by pressing the eye icon.### DeleteRemove the conditional appearance.

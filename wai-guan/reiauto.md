@@ -1,29 +1,1 @@
-# Layout
-
-## vertical
-
-You can determine the vertical placement of the child elements with respect to the parent element.
-
-### Element spacing
-
-The spacing between elements can be defined using px, rem, em.
-
-### wrap
-
-You can wrap the child element so that it fits in the parent element.
-
-## Horizontal
-
-You can determine the horizontal placement of the child elements with respect to the parent element.
-
-### Column placement
-
-You can define the spacing between columns using px, rem, em.
-
-### wrap
-
-You can wrap the child element so that it fits in the parent element.
-
-## free
-
-You can freely arrange child elements within the parent element.
+# Layout## VerticalYou can determine the vertical placement of the child elements with respect to the parent element.### Element spacingThe spacing between elements can be defined using px, rem, em.### WrapYou can wrap the child element so that it fits in the parent element.## HorizontalYou can determine the horizontal placement of the child elements with respect to the parent element.### Column placementYou can define the spacing between columns using px, rem, em.### WrapYou can wrap the child element so that it fits in the parent element.## FreeYou can freely arrange child elements within the parent element.

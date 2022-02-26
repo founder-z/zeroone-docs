@@ -1,3 +1,1 @@
-# custom
-
-You can use the elements created by the widget.
+# CustomYou can use the elements created by the widget.

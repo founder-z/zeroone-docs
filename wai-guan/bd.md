@@ -1,22 +1,1 @@
-# border
-
-Borders can be set from Editor Page\> Appearance\> Borders. By setting a border, you can express the border display (top, right, bottom, left), width, style, and color.
-
-### Border display
-
-You can set which border to display, top, right, bottom, or left.
-
-### border
-
--   **None** : No border is set. The default is none.
--   **Dotted line** : Border Displayed as a dotted line.
--   **Wavy line** : Displays the border as a wavy line.
--   **Solid** : Represents the border with a line.
-
-### Border width
-
-The width of the border can be set with px, rem, em.
-
-### Border color
-
-Border colors can be represented by HEX values, RGBA values, and the colors that are configured by default.
+# BorderBorders can be set from Editor Page\> Appearance\> Borders. By setting a border, you can express the border display (top, right, bottom, left), width, style, and color.### Border displayYou can set which border to display, top, right, bottom, or left.### Border-   **None** : No border is set. The default is none.-   **Dotted line** : Border Displayed as a dotted line.-   **Wavy line** : Displays the border as a wavy line.-   **Solid** : Represents the border with a line.### Border widthThe width of the border can be set with px, rem, em.### Border colorBorder colors can be represented by HEX values, RGBA values, and the colors that are configured by default.

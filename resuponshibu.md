@@ -1,27 +1,1 @@
-# Responsive
-
-## Responsive design
-
-Responsive design refers to a design that adjusts the page layout to suit the device used by the browsing user. Zero One makes it easier to set up a responsive design.
-
-## Desktop first
-
-Zero One expresses responsive design by setting breakpoints. When you click the button displayed at the top of the app editor, the button turns red and you can set the state of the element at the set breakpoint.
-
-## New break point
-
-New breakpoints can be set from Responsive\> Desktop First\> New Breakpoints.
-
-### icon
-
-The settings for the icons (mobile, tablet, laptop, desktop) are optional, but you can make them easier to switch responsively in the editor.
-
-### label
-
-The label can set the name of the newly set breakpoint.
-
-### Maximum width
-
-You can set the breakpoints by setting the number of px that will be the breakpoints in the \"maximum width\".
-
-The style is changed when the page width is less than the \"maximum width\" set here. If the maximum width is 540px, the style will be applied if it is less than or equal to 540px.
+# Responsive## Responsive designResponsive design refers to a design that adjusts the page layout to suit the device used by the browsing user. Zero One makes it easier to set up a responsive design.## Desktop firstZero One expresses responsive design by setting breakpoints. When you click the button displayed at the top of the app editor, the button turns red and you can set the state of the element at the set breakpoint.## New break pointNew breakpoints can be set from Responsive\> Desktop First\> New Breakpoints.### IconThe settings for the icons (mobile, tablet, laptop, desktop) are optional, but you can make them easier to switch responsively in the editor.### LabelThe label can set the name of the newly set breakpoint.### Maximum widthYou can set the breakpoints by setting the number of px that will be the breakpoints in the \"maximum width\".The style is changed when the page width is less than the \"maximum width\" set here. If the maximum width is 540px, the style will be applied if it is less than or equal to 540px.

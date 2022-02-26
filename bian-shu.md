@@ -1,31 +1,1 @@
-# variable
-
-You can create variables on a global, widget, or page basis. The value of the variable returns to its initial value as soon as the page is reloaded.
-
-### name
-
-Enter the name of the variable.
-
-### Data type
-
-Enter the data type.
-
-### Calculation
-
-You can make the variable rain value dynamic.
-
-### Default value
-
-You can determine the initial value of the variable.
-
-## Global variables
-
-A variable that can be specified regardless of the page.
-
-## Widget variable
-
-This is a variable specified for each widget.
-
-## Page variables
-
-This is a variable specified for each page.
+# VariableYou can create variables on a global, widget, or page basis. The value of the variable returns to its initial value as soon as the page is reloaded.### NameEnter the name of the variable.### Data typeEnter the data type.### CalculationYou can make the variable rain value dynamic.### Default valueYou can determine the initial value of the variable.## Global variablesA variable that can be specified regardless of the page.## Widget variableThis is a variable specified for each widget.## Page variablesThis is a variable specified for each page.
