@@ -42,4 +42,3 @@
   * [Nodes](bakkuendowkufur/nodes.md)
 * [Translation](fan-yi.md)
 * [Setting](she-ding.md)
-* [Shu-shi](shu-shi.md)
