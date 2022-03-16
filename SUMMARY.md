@@ -33,7 +33,7 @@
 * [Style](sutairu.md)
 * [Widget](wijetto.md)
 * [Responsive](resuponshibu.md)
-* [Format](shu-shi.md)
+* [Typography](typography.md)
 * [Database](dtabsu.md)
 * [Storage](storage.md)
 * [Variable](bian-shu.md)
