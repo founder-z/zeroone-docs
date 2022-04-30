@@ -45,4 +45,8 @@ Max Height field can accept both absolute and relative length units. Please see 
 
 ## Grow
 
+This checkbox allows element to increase in size and fill available space
+
 ## Shrink
+
+This checkbox allows element to decrease in size if there is not enough space
