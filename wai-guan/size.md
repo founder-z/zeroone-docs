@@ -13,11 +13,16 @@ You can specify the width of an element as fixed or responsive.&#x20;
 
 Width field can accept both absolute and relative length units. Please see [CSS units](css-units.md)
 
+![](<../.gitbook/assets/image (3).png>)\
+Clicking on this button switches width between "hug-content" and "stretch" options
+
 ## Height
 
 You can specify the height of an element as fixed or responsive.&#x20;
 
 Height field can accept both absolute and relative length units. Please see [CSS unit](css-units.md)
+
+![](<../.gitbook/assets/image (2).png>)
 
 ## Min Width
 
