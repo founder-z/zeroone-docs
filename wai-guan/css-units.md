@@ -43,8 +43,8 @@ Relative length units specify a length relative to another length property. Rela
 
 ## Hug-content
 
-Set an auto layout frame to **Hug content** to resize itself according to its child objects. The frame will keep the smallest possible dimensions to surround the objects within it, while respecting the padding value.
+Set an auto layout frame to **Hug content** to resize itself according to its child objects. The frame will keep the smallest possible dimensions to surround the objects within it, while respecting the padding value. Represents `width: auto` css property. [Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
 
 ## Stretch
 
-Set an auto layout frame to **Stretch** to resize itself according to its parent objects. The frame will keep maximum possible dimensions to surround the objects around it, while respecting the padding value.
+Set an auto layout frame to **Stretch** to resize itself according to its parent objects. The frame will keep maximum possible dimensions to surround the objects around it, while respecting the padding value. Represents `width: 100%` css property. [Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/width)

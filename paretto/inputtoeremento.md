@@ -18,31 +18,35 @@ This is the input field used in the input form, that allow to type text.
 
 ## Password input
 
-This is the data type input field where the data type is a password. The typed text will appear as dots.\
+This is input field allows user to type password in hidden form. The typed text will appear as dots.\
 \
-e.g •••••••
+e.g ••••••••
 
 ## Time input
 
-This is an input field where the data represents time in HH:MM format
+Input field which allows to enter time. Value is the string in HH:mm format. [Learn more](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/time)
 
 e.g `23:59`
 
 ## Date input
 
-This is an input field where the data represents date in DD.MM.YYYY format
+Input field which allows to enter date. Value is the string in YYYY-MM-DD format. [Learn more](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date)
 
-e.g `31.12.2000`
+e.g `2000.12.31`
 
 ## Date and time input
 
-This is an input field where the data represents date and time in DD.MM.YYYY HH:MM format
+Input field which allows to enter date and time. Value is the string in in YYYY-MM-DD HH:mm format. [Learn more](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/datetime-local)
 
-e.g. `31.12.2000 23:59`
+{% hint style="info" %}
+This input shows dateTime in local format for user. However value is always formatted in YYYY-MM-DD HH:mm&#x20;
+{% endhint %}
+
+e.g. `2000.12.31 23:59`
 
 ## Multiline Input
 
-This input allows to input text in multiple row format with new lines. Used when text formatting is required
+Represents a multi-line plain-text editing control, useful when you want to allow users to enter a sizeable amount of free-form text, for example a comment on a review or feedback form. [Learn more](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
 
 ## Language dropdown
 

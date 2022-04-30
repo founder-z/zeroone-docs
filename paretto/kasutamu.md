@@ -1,3 +1,3 @@
 # Custom
 
-You can use the elements created by the widget.
+Here you will be able to use your custom created widgets

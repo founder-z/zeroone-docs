@@ -10,8 +10,8 @@ An element whose layout is set vertically by default. This element is mainly use
 
 ## Horizontal repeater
 
-You can iterate over the elements by referencing the data from the database.
+Horizontal repeater is horizontal box, whose children elements may be repeated. You can iterate over the elements by referencing the data from the database.
 
 ## Vertical repeater
 
-You can iterate over the elements by referencing the data from the database.
+Vertical repeater is vertical box, whose children elements may be repeated. You can iterate over the elements by referencing the data from the database.
