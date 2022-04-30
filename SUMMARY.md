@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Home](hmu/README.md)
   * [Introduction of Zero One](hmu/zerowanno.md)
-  * [Page editor](hmu/pjiedit.md)
+  * [Main interface](hmu/pjiedit.md)
 * [Appearance](wai-guan/README.md)
   * [CSS units](wai-guan/css-units.md)
   * [Size](wai-guan/size.md)
