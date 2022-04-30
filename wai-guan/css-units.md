@@ -40,3 +40,11 @@ Relative length units specify a length relative to another length property. Rela
 
 **Tip:** The em and rem units are practical in creating perfectly scalable layout!\
 \* Viewport = the browser window size. If the viewport is 50cm wide, 1vw = 0.5cm.
+
+## Hug-content
+
+Set an auto layout frame to **Hug content** to resize itself according to its child objects. The frame will keep the smallest possible dimensions to surround the objects within it, while respecting the padding value.
+
+## Stretch
+
+Set an auto layout frame to **Stretch** to resize itself according to its parent objects. The frame will keep maximum possible dimensions to surround the objects around it, while respecting the padding value.

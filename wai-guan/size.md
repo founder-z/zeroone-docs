@@ -24,6 +24,8 @@ Height field can accept both absolute and relative length units. Please see [CSS
 
 ![](<../.gitbook/assets/image (2).png>)
 
+Clicking on this button switches width between "hug-content" and "stretch" options
+
 ## Min Width
 
 You can specify minimal width of an element as fixed or responsive. This will prevent elements from reducing size below specified length.&#x20;
