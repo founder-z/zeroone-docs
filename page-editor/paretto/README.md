@@ -1,6 +1,8 @@
-# パレット
+# Palette
 
-さまざまな用途によってパレット内にあるエレメントを使い分けることができます。
+Palette section contains elements that you can drag and drop into the page editor canvas
+
+![](<../../.gitbook/assets/Screenshot 2022-04-30 195135.png>)
 
 {% content-ref url="kontena.md" %}
 [kontena.md](kontena.md)
