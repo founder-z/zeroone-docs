@@ -18,13 +18,13 @@ The Style tab allows you to change the default style of the element. The element
 
 On the Widgets tab, you can change the style defaults here with the elements combined. The element set here can be selected from "Custom" in the editor palette.
 
-### Responsive tab
+### Responsiveness tab
 
-On the Responsive tab, set the responsive settings. Responsive design allows you to take advantage of breakpoints to change the look of your pages and components depending on your screen size.
+On the Responsiveness tab, set the responsive settings. Responsive design allows you to take advantage of breakpoints to change the look of your pages and components depending on your screen size.
 
-### Format tab
+### Typography tab
 
-The Format tab allows you to define a default formatting style for all text used in your project.
+The Typography tab allows you to define a default formatting style for all text used in your project.
 
 ### Database tab
 
