@@ -12,7 +12,7 @@
     * [Input element](paretto/inputtoeremento.md)
     * [Custom](paretto/kasutamu.md)
   * [Element tree](page-editor/element-tree.md)
-* [Canvas](canvas.md)
+  * [Canvas](page-editor/canvas.md)
 * [Appearance](wai-guan/README.md)
   * [CSS units](wai-guan/css-units.md)
   * [Size](wai-guan/size.md)

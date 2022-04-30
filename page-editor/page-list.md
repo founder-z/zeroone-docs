@@ -24,11 +24,9 @@ To create page click on `+` button and the modal will open. Here you can set fol
 
 
 
-    **Header tags**, an HTML element represents introductory content, typically a group of introductory or navigational aids. It may contain some heading elements but also a logo, a search form, an author name, and other elements.\
+    **Header tags**, HTML tags that will be included in page \<head>. Usually you will want to include here \<style> and \<meta> tags. [Learn more](https://www.w3schools.com/html/html\_head.asp)\
     \
-    **Body tags**, an HTML tag defines the main content of an HTML document which displays on the browser. It can contain text content, paragraphs, headings, images, tables, links, videos, etc. The \<body> must be the second element after the \<head> tag or it should be placed between \</head> and \</html> tags. \
-    \
-    Can be used to set custom \<script> tags, and implement custom logic.\
+    **Body tags**, HTML tags that will be included in the bottom of the \<body> tag of the page.  Usually you will want to include here \<script> tags. [Learn more](https://www.w3schools.com/html/html\_head.asp)\
 
 3. **SEO/Metatags**\
    ****\
