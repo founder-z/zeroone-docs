@@ -6,7 +6,7 @@ Page list section allows you to create, delete and edit pages.&#x20;
 
 ## Create page
 
-To create page click on "+" button and the modal will open. Here you can set following:
+To create page click on `+` button and the modal will open. Here you can set following:
 
 1.  **Page propeties**
 
@@ -40,10 +40,27 @@ To create page click on "+" button and the modal will open. Here you can set fol
    \
    **OGP title** allows you to control what title display when sharing links on social media. Without it, social media platforms can choose a random title.\
    \
-   **OGP description** allows you to control what description display when sharing links on social media. Without it, social media platforms can choose a random description.\
-   ****\
-   ****\
-   ****
+   **OGP description** allows you to control what description display when sharing links on social media. Without it, social media platforms can choose a random description.
+
+## Edit page content
+
+To edit page content click on page row you want to edit. The canvas will open were you can drag\&drop elements and edit them
+
+## **Edit page settings**
+
+To edit page click on `⋮` button and then click `Edit` button. The menu is the same as in [**Create page section**](page-list.md#create-page)****
+
+## Delete page
+
+To delete page click on `⋮` button and then click `Delete` button. The popup will be show to confirm deletion. \
+\
+_Home page cannot be deleted_
+
+## Duplicate page
+
+To duplicate page click on `⋮` button and then click `Duplicate` button. The menu is the same as in [**Create page section**](page-list.md#create-page)****
+
+
 
 
 
