@@ -1,6 +1,6 @@
-# ホーム
+# Home
 
-このドキュメントのセクションではゼロワンについて説明し、ツールの学習を通して最初のアプリを作成するための基本事項を理解します。
+This section describes ZeroOne and helps you understand the basics of creating your first app through learning the tool.
 
 {% content-ref url="zerowanno.md" %}
 [zerowanno.md](zerowanno.md)

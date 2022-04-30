@@ -2,13 +2,11 @@
 description: ゼロワンドキュメントへようこそ
 ---
 
-# はじめに
+# Introduction
 
-ゼロワンドキュメントは、ゼロワンの各機能の説明、概念およびアプリケーションを構築するためのtipsを説明しています。
+The ZeroOne documents describe each of ZeroOne's features, concepts, and tips for building applications.
 
-
-
-それらのドキュメントの詳細はいくつかのセクションに分かれています。以下のタブとページリンクから各機能の説明を参照してください
+The documentation is divided into several sections. Please refer to the tabs and page links below for a description of each feature
 
 {% tabs %}
 {% tab title="ホーム" %}
@@ -51,4 +49,3 @@ description: ゼロワンドキュメントへようこそ
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
-
