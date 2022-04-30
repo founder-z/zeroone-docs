@@ -4,6 +4,8 @@
 * [Home](hmu/README.md)
   * [Introduction of Zero One](hmu/zerowanno.md)
   * [Main interface](hmu/pjiedit.md)
+* [Page editor](page-editor/README.md)
+  * [Page list](page-editor/page-list.md)
 * [Appearance](wai-guan/README.md)
   * [CSS units](wai-guan/css-units.md)
   * [Size](wai-guan/size.md)
