@@ -1,8 +1,8 @@
-# 外観
+# Appearance
 
-ここで、アプリの外観をデザインします。ページ上に要素を描画し、ドラッグしてサイズを変更し、デザインを調整します。
+Here you design the appearance of the application. Draw elements on the page, drag to resize and adjust the design.
 
-&#x20; 新しい要素を追加するには、左側のパレットでエレメントをページ内にドラッグ&ドロップして挿入します。要素をクリックすると、右側のプロパティエディタが表示され編集できるようになります。 また、エレメントを右クリックすると「コピー」、「カット」、「ペースト」、「削除」が表示され、簡単に編集をすることが出来ます。
+ To add a new element, drag and drop the element into the page using the palette on the left. Clicking on an element will bring up the property editor on the right side for editing. Also, right-clicking on an element will bring up "Copy," "Cut," "Paste," and "Delete" for easy editing.
 
 {% content-ref url="ki.md" %}
 [ki.md](ki.md)
