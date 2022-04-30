@@ -11,6 +11,7 @@
     * [Basic element](paretto/eremento.md)
     * [Input element](paretto/inputtoeremento.md)
     * [Custom](paretto/kasutamu.md)
+  * [Element tree](page-editor/element-tree.md)
 * [Appearance](wai-guan/README.md)
   * [CSS units](wai-guan/css-units.md)
   * [Size](wai-guan/size.md)
