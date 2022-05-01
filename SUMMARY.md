@@ -13,6 +13,7 @@
     * [Custom](paretto/kasutamu.md)
   * [Element tree](page-editor/element-tree.md)
   * [Canvas](page-editor/canvas.md)
+* [Root element selector](root-element-selector.md)
 * [Appearance](wai-guan/README.md)
   * [CSS units](wai-guan/css-units.md)
   * [Size](wai-guan/size.md)

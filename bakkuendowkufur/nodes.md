@@ -6,7 +6,7 @@ Zero One contains 3 custom n8n nodes, which allow you to write business logic de
 
 Zero one trigger - is custom webhook trigger, which handles JWT verification and defines input/output schema which then can be used in Frontend workflows
 
-<img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="original">![](<../.gitbook/assets/image (2) (1).png>)
+<img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">![](<../.gitbook/assets/image (2) (1).png>)
 
 #### Input
 
