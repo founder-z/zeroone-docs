@@ -1,6 +1,8 @@
 # Palette
 
-Palette section contains elements that you can drag and drop into the page editor canvas
+Palette section contains elements that you can drag and drop into the page editor canvas.
+
+You can use search to find drag-and-drop element faster
 
 ![](<../.gitbook/assets/Screenshot 2022-04-30 195135.png>)
 
