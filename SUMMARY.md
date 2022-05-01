@@ -40,7 +40,7 @@
   * [Drop down](puropati/doroppudaun-1.md)
 * [Style](sutairu.md)
 * [Widget](wijetto.md)
-* [Responsive](resuponshibu.md)
+* [Responsiveness](resuponshibu.md)
 * [Typography](typography.md)
 * [Database](dtabsu.md)
 * [Storage](storage.md)
