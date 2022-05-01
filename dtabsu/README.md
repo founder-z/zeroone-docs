@@ -2,23 +2,26 @@
 
 The database manages the data that users create when using the app. Here you can configure and view the data in your app's database.
 
-### Privacy rules
-
-You can transition to the Privacy rules tab. Here you can configure conditions for each table's permissions to read, edit, delete or create data.&#x20;
-
 ### Create a new table
 
 You can create a new table by clicking on `Create a new table` button, and entering the name of the table.
 
-![](<.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 ### Edit
 
-You can change the table name from the pen icon.
+You can change the table name from the pen icon.\
+<img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
+
+{% hint style="info" %}
+User table cannot be editted.
+{% endhint %}
 
 ### Delete
 
 You can delete the table from the trash can icon.
+
+![](<../.gitbook/assets/image (5).png>)
 
 ## Table
 
@@ -84,32 +87,6 @@ Stores the confirmation email usage used for user registration as either "Yes / 
 
 Stores the use of the confirmation phone number used for user registration as either "Yes / No". The data type is boolean.
 
-## App data
-
-The data in the app's database is displayed. Display data by data type and display specific fields in columns. You can also create, modify, delete specific fields in the database, or upload them in bulk,
-
-### Search
-
-You can search the field.
-
-### Filter
-
-You can narrow down the data you want to display in the list.
-
-### New input
-
-You can create a new field.
-
-### Import
-
-Import the database information.
-
-### Bulk
-
-Collectively manage data.
-
-## Privacy rules
-
-Privacy allows users to set rules regarding the display of different types of data.
+##
 
 ###
