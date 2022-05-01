@@ -14,6 +14,7 @@
   * [Element tree](page-editor/element-tree.md)
   * [Canvas](page-editor/canvas.md)
     * [Change canvas resolution](page-editor/canvas/change-canvas-resolution.md)
+    * [Change canvas size](page-editor/canvas/change-canvas-size.md)
     * [Root element selector](page-editor/canvas/root-element-selector.md)
 * [Appearance](wai-guan/README.md)
   * [CSS units](wai-guan/css-units.md)
