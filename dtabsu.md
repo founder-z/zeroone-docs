@@ -6,12 +6,12 @@ The database manages the data that users create when using the app. Here you can
 
 You can create a new table by clicking on `Create a new table` button, and entering the name of the table.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4).png>)
 
 ### Edit
 
 You can change the table name from the pen icon.\
-<img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
+<img src=".gitbook/assets/image (8).png" alt="" data-size="original">
 
 {% hint style="info" %}
 User table cannot be editted.
@@ -21,23 +21,23 @@ User table cannot be editted.
 
 You can delete the table from the trash can icon.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5).png>)
 
-## Table
-
-The data in the app's database will be listed. Display data by data type. You can create, edit, and delete specific fields in the database.
+{% hint style="info" %}
+User table cannot be deleted
+{% endhint %}
 
 ## Custom type
 
-These fields are automatically defined when you create the table. These also apply to the user's table.
+There are default fields when you create the table.
 
 ### Id
 
-The unique ID of the field. The data type is to search for.
+The unique ID of the record. The type is [UUID](https://www.postgresql.org/docs/current/datatype-uuid.html).
 
 ### Created\_at
 
-Stores the date the field was created. The data type is date.
+Stores the date and time when the record was created. The type is `date`
 
 ### Updated\_at
 
