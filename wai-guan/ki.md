@@ -26,9 +26,9 @@ After you set desired appearance for variant click on `Stop recording` button to
 
 To see how element will appear when matched variant condition press on `View variant` button.
 
-Click it again to stop preview
+Click it again to stop preview![](<../.gitbook/assets/image (3).png>)
 
-![](<../.gitbook/assets/image (4).png>)
+
 
 ## Delete variant
 
