@@ -1,6 +1,6 @@
-# プロパティ
+# Properties
 
-動的、または静的にエレメントの設定をすることができます。
+Elements can be set dynamically or statically.
 
 {% content-ref url="ji-ben-she-ding.md" %}
 [ji-ben-she-ding.md](ji-ben-she-ding.md)

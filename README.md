@@ -1,5 +1,5 @@
 ---
-description: ゼロワンドキュメントへようこそ
+description: Welcome to ZeroOne Documentation
 ---
 
 # Introduction
@@ -9,7 +9,7 @@ The ZeroOne documents describe each of ZeroOne's features, concepts, and tips fo
 The documentation is divided into several sections. Please refer to the tabs and page links below for a description of each feature
 
 {% tabs %}
-{% tab title="ホーム" %}
+{% tab title="Home" %}
 {% content-ref url="hmu/zerowanno.md" %}
 [zerowanno.md](hmu/zerowanno.md)
 {% endcontent-ref %}
@@ -19,7 +19,7 @@ The documentation is divided into several sections. Please refer to the tabs and
 {% endcontent-ref %}
 {% endtab %}
 
-{% tab title="外観" %}
+{% tab title="Appearance" %}
 {% content-ref url="wai-guan/ki.md" %}
 [ki.md](wai-guan/ki.md)
 {% endcontent-ref %}
