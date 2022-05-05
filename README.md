@@ -44,8 +44,8 @@ The documentation is divided into several sections. Please refer to the tabs and
 [padingu.md](wai-guan/padingu.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="wai-guan/sato.md" %}
+[sato.md](wai-guan/sato.md)
 {% endcontent-ref %}
 {% endtab %}
 {% endtabs %}
