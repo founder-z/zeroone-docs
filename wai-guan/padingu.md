@@ -1,8 +1,8 @@
 # Padding
 
-You can set space around the element inside the defined border from left, right, top or bottom side
+You can set space around the element inside the defined border from left, right, top or bottom side.
 
-[Learn more about padding](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS\_Box\_Model/Introduction\_to\_the\_CSS\_box\_model#padding\_area)
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS\_Box\_Model/Introduction\_to\_the\_CSS\_box\_model#padding\_area)
 
 <img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
 
@@ -10,7 +10,7 @@ You can set space around the element inside the defined border from left, right,
 
 To set padding value type value that specified in [CSS units](css-units.md).
 
-e.g. 10px
+e.g.  `10px`, `2em`, etc.
 
 ## Unset paddings
 
