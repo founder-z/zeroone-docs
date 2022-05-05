@@ -1,8 +1,8 @@
 # Appearance
 
-Here you design the appearance of the application. Draw elements on the page, drag to resize and adjust the design.
+You can define how each element will appear on the page. i.e. style, background, size, borders, and how they appear in different states (focused, hovered etc.)
 
- To add a new element, drag and drop the element into the page using the palette on the left. Clicking on an element will bring up the property editor on the right side for editing. Also, right-clicking on an element will bring up "Copy," "Cut," "Paste," and "Delete" for easy editing.
+ To change appearance of the element go into page editor, click the element. It will bring up the property editor on the right side for editing. Also, right-clicking on an element will bring up "Copy," "Cut," "Paste," and "Delete" for easy editing.
 
 {% content-ref url="ki.md" %}
 [ki.md](ki.md)
@@ -26,8 +26,4 @@ Here you design the appearance of the application. Draw elements on the page, dr
 
 {% content-ref url="padingu.md" %}
 [padingu.md](padingu.md)
-{% endcontent-ref %}
-
-{% content-ref url="sato.md" %}
-[sato.md](sato.md)
 {% endcontent-ref %}

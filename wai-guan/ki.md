@@ -1,1 +1,106 @@
-# Conditional appearanceYou can give the element different states.### Focused\"Focused\" means that the object is ready for the \"next operation\". By selecting \"Focus\", you can set the state of the element when it is focused.### Not focused\"Out of focus\" means that the object is in a state where it does not accept the \"next operation\". By selecting \"Not focused\", you can set the state of the element when it is not focused.### Hovered\"Hovered\" means that the mouse cursor is placed on the element. You can set the state of the element when it is hovered by selecting \"Hovered\".### Not hovered\"Not hovered\" means that the mouse cursor is not placed on the element. You can set the state of the element when it is not hovered by selecting \"Not hovered\".### Pressed\"Pressed\" describes the state when the element is activated. By selecting \"Pressed\", you can set the state of the element when it is pressed.### Not pressed\"Not pressed\" describes the state when the element is not activated. By selecting \"Not pressed\", you can set the state of the element when it is not pressed.### Highlight when in focus\"Highlight when in focus\" is to darken the parts other than the focused element to improve visibility. By selecting \"Highlight when focused\", you can set the state of the element when highlighted when focused.### Do not highlight when in focus\"Do not highlight when in focus\" means that even if it is focused, it does not darken the parts other than the element to improve visibility. By selecting \"Do not highlight when focusing\", you can set the state of the element when it is not highlighted when focusing.### Do not show different focus\"Do not show different focus\" means that the focus has not changed. By selecting \"Hide different focus\", you can set the state of the element when the focus is not changed.### Add custom conditionsAdd Custom Condition allows you to add conditions statically or dynamically to the element itself.### Added conditions common to pages\"Add conditions common to pages\" allows you to add conditions statically or dynamically to the page itself.### Added conditions common to projects\"Add project common conditions\" allows you to add conditions statically or dynamically to the app itself.### Record changesBy pressing \"Record changes\", you can set the design in that state. When you have finished making settings, press \"Finish Changes\" to save the settings. Example) Set the color to red when the focus is on.### Preview the appearance when the condition is appliedYou can see the appearance when the condition is applied by pressing the eye icon.### DeleteRemove the conditional appearance.
+# Variants
+
+You can give the element different appearance depending on their state.
+
+## Create variant
+
+To create variant click on triangles button on the right, and select type. Newly created variant will look the same, as element style. To change its behavior you need to [record](ki.md#record-behavior) appearance, which will be used on match.&#x20;
+
+![](<../.gitbook/assets/image (1).png>)
+
+## Record/Edit behavior
+
+To record how an element should appear when matched to variant condition press `Add to recording` button and change appearance.
+
+<img src="../.gitbook/assets/image (7).png" alt="" data-size="original">
+
+After you set desired appearance for variant click on `Stop recording` button to save.
+
+&#x20;![](<../.gitbook/assets/image (9).png>)
+
+## Preview variant appearance
+
+To see how element will appear when matched variant condition press on `View variant` button.
+
+![](<../.gitbook/assets/image (4).png>)
+
+
+
+## Delete variant
+
+To delete variant hover over it in appearance menu, click `⋮` button, and then click `Remove`.
+
+<img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
+
+### Focused
+
+Matches when an element has focus on it.&#x20;
+
+Represesnts `:focus` [CSS pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes).&#x20;
+
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus)
+
+### Not focused
+
+Matches when an element is out of focus.
+
+### Hovered
+
+Matches when a user designates an item with a pointing device, for example holding the mouse pointer over it.&#x20;
+
+Represesnts `:hover` [CSS pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes).&#x20;
+
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/:hover)
+
+### Not hovered
+
+Matches when a user **doesn't** designates an item with a pointing device.
+
+### Pressed
+
+Matches when a user activates an item with a pointing device, for example holding mouse left button down.&#x20;
+
+Represesnts `:active` [CSS pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes).
+
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/:active)
+
+### Not pressed
+
+Matches when a user **doesn't** activates an item with a pointing device.
+
+### Focus within
+
+Matches an element if the element or any of its descendants are focused. In other words, it represents an element that is itself matched by the `Focused` or has a descendant that is matched by `Focused`.&#x20;
+
+Represesnts `:focus-within` [CSS pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes).
+
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-within)
+
+### Not Focus within
+
+Matches an element if the element or any of its descendants are **not** focused.
+
+### Focus visible
+
+Matches an element with the [`:focus`](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus) pseudo-class and the UA ([User Agent](https://developer.mozilla.org/en-US/docs/Glossary/User\_agent)) determines via heuristics that the focus should be made evident on the element.
+
+Represesnts `:focus-visible` [CSS pseudo-class](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes).
+
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-visible)
+
+### Not Focus visible
+
+Matches an element with **no** [`:focus`](https://developer.mozilla.org/en-US/docs/Web/CSS/:focus) pseudo-class and the UA ([User Agent](https://developer.mozilla.org/en-US/docs/Glossary/User\_agent)) determines via heuristics that the focus should **not** be made evident on the element.
+
+### Add custom variant
+
+You can create a variant for the element with custom condition using Dynamic expressions. This variant will be applied only for this element
+
+### Add custom page variant
+
+You can create a variant for all elements on page with custom condition using Dynamic expressions. This variant will be applied for every elements on the page
+
+### Add custom project variant&#x20;
+
+You can create a variant for all elements in project with custom condition using Dynamic expressions. This variant will be applied for every elements in project
+
