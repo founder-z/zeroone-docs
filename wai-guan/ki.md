@@ -1,6 +1,10 @@
 # Variants
 
-You can give the element different appearance depending on their state.
+You can give the element different appearance depending on their state.&#x20;
+
+e.g. Make button change background color from <mark style="color:blue;">Blue</mark> to <mark style="color:red;">Red</mark> when hovered over.
+
+![](<../.gitbook/assets/image (7).png>)
 
 ## Create variant
 
@@ -12,7 +16,7 @@ To create variant click on triangles button on the right, and select type. Newly
 
 To record how an element should appear when matched to variant condition press `Add to recording` button and change appearance.
 
-<img src="../.gitbook/assets/image (7).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (8).png" alt="" data-size="original">
 
 After you set desired appearance for variant click on `Stop recording` button to save.
 
@@ -22,15 +26,17 @@ After you set desired appearance for variant click on `Stop recording` button to
 
 To see how element will appear when matched variant condition press on `View variant` button.
 
+Click it again to stop preview
+
 ![](<../.gitbook/assets/image (4).png>)
-
-
 
 ## Delete variant
 
 To delete variant hover over it in appearance menu, click `⋮` button, and then click `Remove`.
 
 <img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
+
+## Variant matching conditions
 
 ### Focused
 
