@@ -11,7 +11,7 @@ You can create a new table by clicking on `Create a new table` button, and enter
 ### Edit
 
 You can change the table name from the pen icon.\
-<img src=".gitbook/assets/image (8) (1).png" alt="" data-size="original">
+<img src=".gitbook/assets/image (8) (1) (1).png" alt="" data-size="original">
 
 {% hint style="info" %}
 User table cannot be editted.
@@ -21,7 +21,7 @@ User table cannot be editted.
 
 You can delete the table from the trash can icon.
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 
 {% hint style="info" %}
 User table cannot be deleted

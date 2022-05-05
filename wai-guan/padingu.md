@@ -1,11 +1,30 @@
-# Padding
-
-It can be set from the editor page\> Appearance\> Padding. Padding is used to create space around the element inside the defined border.
-
-### Types of padding
-
-Margins can be specified up, down, left and right, and are expressed by px, rem, em,%. By default, 0.5rem is set.
-
-### Padding and element width
-
-If the element has the specified padding, the actual width of the element will be the width of the specified element + the width of the left and right padding.
+# Padding
+
+You can set space around the element inside the defined border from left, right, top or bottom side
+
+[Learn more about padding](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS\_Box\_Model/Introduction\_to\_the\_CSS\_box\_model#padding\_area)
+
+<img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
+
+## Set padding
+
+To set padding value type value that specified in [CSS units](css-units.md).
+
+e.g. 10px
+
+## Unset paddings
+
+### Unset single side of padding
+
+To unset one of the sides click on it and select_`(unset)`._
+
+__![](<../.gitbook/assets/image (10).png>)_``_
+
+### Unset all paddings
+
+To unset all paddings **right click** on `Padding` title and select _`(unset)`_.  &#x20;
+
+![](<../.gitbook/assets/image (8).png>)
+
+
+

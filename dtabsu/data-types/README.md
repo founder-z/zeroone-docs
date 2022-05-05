@@ -8,7 +8,7 @@ To create new field click `Create field` button.&#x20;
 
 Enter new field name and select its type. [Learn more about Field types](field-types.md)
 
-![](<../../.gitbook/assets/image (6) (1) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 You can set `Unique`, if you want records in table to have only unique values for this field.&#x20;
 
