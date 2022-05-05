@@ -30,8 +30,6 @@ e.g. `2000-12-31T23:59:59.999+00:00`
 
 A JSON that contains file name and bucket name.&#x20;
 
-e.g.&#x20;
-
 ### Date range
 
 
@@ -70,3 +68,5 @@ Abbreviations used:
 Rich text is more exciting than plain text. It supports text formatting, such as **bold**, _italics_, and underlining, as well as different fonts, font sizes, and colored text. Rich text documents can also include page formatting options, such as custom page margins, line spacing, tab widths, images and many more.
 
 ### References
+
+Create one to many relation between tables. [Learn more](https://fmhelp.filemaker.com/help/18/fmp/en/index.html#page/FMP\_Help/one-to-many-relationships.html)
