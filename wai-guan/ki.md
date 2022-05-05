@@ -36,7 +36,7 @@ Click `Turn off variant` to stop preview.
 
 To delete variant hover over it in appearance menu, click `⋮` button, and then click `Remove`.
 
-<img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (6) (1).png" alt="" data-size="original">
 
 ## Variant matching conditions
 
