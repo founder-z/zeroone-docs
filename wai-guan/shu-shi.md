@@ -6,7 +6,9 @@ You can set a color for text. You can pick a coolor from color picker, or by typ
 
 ## Font family
 
-Font families can be set from the editor page> Appearance> Format> Fonts.
+Font families can be set from the Fonts dropdown.
+
+<img src="../.gitbook/assets/image (10).png" alt="" data-size="original">
 
 ### Font type
 
