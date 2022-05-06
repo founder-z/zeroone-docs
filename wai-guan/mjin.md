@@ -4,7 +4,7 @@ You can set space around the element outside the defined border from left, right
 
 [Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS\_Box\_Model/Introduction\_to\_the\_CSS\_box\_model#margin\_area)
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 ## Set margin
 

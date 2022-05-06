@@ -6,7 +6,7 @@ The database manages the data that users create when using the app. Here you can
 
 You can create a new table by clicking on `Create a new table` button, and entering the name of the table.
 
-![](<.gitbook/assets/image (4) (1) (1) (1).png>)
+![](<.gitbook/assets/image (4) (1) (1) (1) (1).png>)
 
 ### Edit
 

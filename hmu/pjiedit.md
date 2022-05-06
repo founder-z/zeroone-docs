@@ -46,9 +46,13 @@ You can repeat changes that were reverted using Redo button or `ctrl+shift+z` / 
 
 A save point can be used to restore project to a state that your app were in that particular moment.
 
-To create a save point click on `Development` button, select `Create save point`, name it and save it.
+To **create a save** point click on `Development` button, select `Create save point`, name it and save it.
 
 ![](<../.gitbook/assets/image (9).png>)
+
+To **load from a save point** click on `Development` button, click `History` and select a savepoint `using revert to this time` button.&#x20;
+
+![](<../.gitbook/assets/image (4).png>)
 
 ### Environment
 
