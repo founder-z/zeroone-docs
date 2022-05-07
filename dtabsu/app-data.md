@@ -37,7 +37,9 @@ id,slug
 "abf27441-40ed-4156-ba0b-70029c74671c","test-app-data3"
 ```
 
-you will need to select file and set `Column A` and `Column B` to `id` and `slug`. ![](../.gitbook/assets/abf27441-40ed-4156-ba0b-70029c74671a.png)
+You will need to select file and set `Column A` and `Column B` to `id` and `slug`.&#x20;
+
+![](../.gitbook/assets/abf27441-40ed-4156-ba0b-70029c74671a.png)
 
 After clicking "OK" you will update or insert data in the selected view. If entry with this id already existed it will be updated to match the provided new data.
 
