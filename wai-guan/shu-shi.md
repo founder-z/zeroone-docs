@@ -2,7 +2,7 @@
 
 ## Color
 
-You can set a color for text. You can pick a coolor from color picker, or by typing color value in [HEX](https://www.w3schools.com/colors/colors\_hexadecimal.asp) or [RGBA](https://en.wikipedia.org/wiki/RGBA\_color\_model) format.
+You can set a color for text. You can pick a coolor from color picker, or by typing color value in [HEX](https://www.w3schools.com/colors/colors\_hexadecimal.asp) or [RGBA](https://en.wikipedia.org/wiki/RGBA\_color\_model) format.&#x20;
 
 ## Font family
 
@@ -22,7 +22,9 @@ There are five types of thickness, from thin to thick: Light, Normal, Medium, Se
 
 ## Size
 
-The font size can be set using Size input in Typegraphy. The font size is represented by px, rem, em,%. [Learn more about CSS units](css-units.md)
+The font size can be set using Size input in Typegraphy. The font size is represented by px, rem, em,%.&#x20;
+
+[Learn more about CSS units](css-units.md)
 
 ## Text alignment
 
@@ -56,8 +58,34 @@ Strikethrough is a typographical presentation of words with a horizontal line th
 
 ### Line height
 
-The `line-height` property specifies the height of a line. Units are positive Integers
+Represents `line-height` CSS property. It specifies the height of a line. Units are positive Integers.&#x20;
+
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/line-height)
 
 ### Letter spacing
 
-The `letter-spacing` property increases or decreases the space between characters in a text. Units are positive Integers
+Represents `letter-spacing` CSS property. It increases or decreases the space between characters in a text. Units are positive Integers.&#x20;
+
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
+
+## Selectable
+
+Represents CSS `user-select` property. controls whether the user can select text. This doesn't have any effect on content loaded as part of a browser's user interface, except in textboxes.&#x20;
+
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/user-select)
+
+## Letter case
+
+Represents CSS `text-transform` property. It specifies how to capitalize an element's text. It can be used to make text appear in all-uppercase or all-lowercase, or with each word capitalized. It also can help improve legibility for ruby.&#x20;
+
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
+
+## Line wrap
+
+Represents CSS `text-overflow` and `white-space` property sets how hidden overflow content is signaled to users. It can be clipped, display an ellipsis ('`…`'), or display a custom string.
+
+Learn more about [text-overflow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow) and [white-space](https://developer.mozilla.org/en-US/docs/Web/CSS/white-space)
+
+{% hint style="info" %}
+Ellipsis and Clip options are only available, when Line-wrap is off.
+{% endhint %}
