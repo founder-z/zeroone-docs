@@ -8,7 +8,9 @@ To make app data tab available, you need to first select data view
 
 ### Sorting
 
-By clicking on the column headers you can sort the data. ![](../.gitbook/assets/app-data-sorts.png)
+By clicking on the column headers you can sort the data.&#x20;
+
+![](../.gitbook/assets/app-data-sorts.png)
 
 ### Search
 
