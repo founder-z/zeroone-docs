@@ -24,8 +24,8 @@ The documentation is divided into several sections. Please refer to the tabs and
 [ki.md](wai-guan/ki.md)
 {% endcontent-ref %}
 
-{% content-ref url="wai-guan/se.md" %}
-[se.md](wai-guan/se.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="wai-guan/bei-jing.md" %}

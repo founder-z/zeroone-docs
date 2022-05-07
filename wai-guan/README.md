@@ -8,10 +8,6 @@ You can define how each element will appear on the page. i.e. style, background,
 [ki.md](ki.md)
 {% endcontent-ref %}
 
-{% content-ref url="se.md" %}
-[se.md](se.md)
-{% endcontent-ref %}
-
 {% content-ref url="bei-jing.md" %}
 [bei-jing.md](bei-jing.md)
 {% endcontent-ref %}

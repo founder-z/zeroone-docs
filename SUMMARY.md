@@ -34,7 +34,6 @@
   * [Layout](wai-guan/reiauto.md)
   * [Overflow](wai-guan/overflow.md)
   * [Image](wai-guan/image.md)
-  * [Colour](wai-guan/se.md)
 * [Properties](puropati/README.md)
   * [Basic setting](puropati/ji-ben-she-ding.md)
   * [Link](puropati/rinku.md)
