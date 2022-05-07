@@ -24,7 +24,7 @@ You can specify the height of an element as fixed or responsive.&#x20;
 
 Height field can accept both absolute and relative length units. Please see [CSS unit](css-units.md)
 
-![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 Clicking on this button switches width between "hug-content" and "stretch" options\
 \

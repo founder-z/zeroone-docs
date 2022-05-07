@@ -12,4 +12,4 @@ Click style dropdown menu and select desired style.
 
 To unset a style hover over selected style, and click delete button.
 
-<img src="../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
