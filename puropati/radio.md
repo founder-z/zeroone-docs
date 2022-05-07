@@ -1,1 +1,0 @@
-# Radio## Data typeYou can select radio and check box by selecting the data type.## Check boxIf you click the check box, a check will be displayed inside, which means that it has been selected.## Already checkedDefines the initial value of the check box. Select from checked and dynamic.

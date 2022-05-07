@@ -1,1 +1,0 @@
-# Basic setting## ContentText elements can fill text dynamically or statically.## TooltipYou can enter the element displayed when hovering statically or dynamically.## WorkflowClick \"New\" to set a new workflow for the button.## 
