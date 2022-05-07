@@ -23,4 +23,4 @@ The width of the border can be set using [CSS units](css-units.md)
 
 ### Border color
 
-You can set a color for a border. You can pick a color from color-picker, or by typing color value in [HEX](https://www.w3schools.com/colors/colors\_hexadecimal.asp) or [RGBA](https://en.wikipedia.org/wiki/RGBA\_color\_model) format.&#x20;
+You can set a color for a border. You can pick a color from color-picker, or by typing color value in [HEX](https://www.w3schools.com/colors/colors\_hexadecimal.asp) or [RGBA](https://en.wikipedia.org/wiki/RGBA\_color\_model) format inside color-picker.&#x20;
