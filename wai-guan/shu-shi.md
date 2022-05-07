@@ -32,9 +32,9 @@ You can change the text layout on the `left`, `center`, `right` or `justify` usi
 
 [Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
 
-## Decoration
+## Text decoration
 
-Decorate the letters.
+Text decoration sets the appearance of decorative lines on text.&#x20;
 
 ### Normal
 
@@ -42,22 +42,22 @@ This is the initial setting. Makes the text decoration normal.
 
 ### Italic
 
-Change the text decoration to italic.
+A typeface with letters slanted slightly to the right. Italic type is used to emphasize words as well as for decoration. Most, but not all, fonts have an italic typeface.
 
 ### Underline
 
-Underline the text.
+An underline is a section of text in a document where the words have a line running beneath them.
 
-### Through
+### Strikethrough
 
-Draw a bar on the text.
+Strikethrough is a typographical presentation of words with a horizontal line through their center, resulting in ~~text like this~~.
 
 ## Line height / distance
 
 ### Line height
 
-"Forecast" sets the width of the characters. This is mainly used to set the character spacing of the text.
+The `line-height` property specifies the height of a line. Units are positive Integers
 
 ### Letter spacing
 
-Set the character advance.
+The `letter-spacing` property increases or decreases the space between characters in a text. Units are positive Integers
