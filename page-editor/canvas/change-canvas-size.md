@@ -2,4 +2,4 @@
 
 You can change size of the canvas using botton-left tools
 
-![](<../../.gitbook/assets/image (8) (1) (1) (1).png>)
+![](<../../.gitbook/assets/image (8) (1) (1) (1) (1).png>)

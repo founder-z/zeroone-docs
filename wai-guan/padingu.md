@@ -24,7 +24,7 @@ __![](<../.gitbook/assets/image (10) (1) (1).png>)_``_
 
 To unset all paddings **right click** on `Padding` title and select _`(unset)`_.  &#x20;
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 
 

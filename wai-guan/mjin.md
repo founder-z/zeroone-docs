@@ -18,7 +18,7 @@ e.g.  `10px`, `2em`, etc.
 
 To unset one of the sides click on it and select_`(unset)`._
 
-__![](<../.gitbook/assets/image (9) (1).png>)__
+__![](<../.gitbook/assets/image (9) (1) (1).png>)__
 
 ### Unset all margins
 

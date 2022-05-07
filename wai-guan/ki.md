@@ -16,11 +16,11 @@ To create variant click on triangles button on the right, and select type. Newly
 
 To record how an element should appear when matched to variant condition press `Add to recording` button and change appearance.
 
-<img src="../.gitbook/assets/image (8) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (8) (1) (1).png" alt="" data-size="original">
 
 After you set desired appearance for variant click on `Stop recording` button to save.
 
-&#x20;![](<../.gitbook/assets/image (9) (1) (1).png>)
+&#x20;![](<../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 ## Preview variant appearance
 

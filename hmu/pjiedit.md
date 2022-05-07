@@ -48,7 +48,7 @@ A save point can be used to restore project to a state that your app were in tha
 
 To **create a save** point click on `Development` button, select `Create save point`, name it and save it.
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 To **load from a save point** click on `Development` button, click `History` and select a savepoint `using revert to this time` button.&#x20;
 
