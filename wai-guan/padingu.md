@@ -18,7 +18,7 @@ e.g.  `10px`, `2em`, etc.
 
 To unset one of the sides click on it and select_`(unset)`._
 
-__![](<../.gitbook/assets/image (10) (1).png>)_``_
+__![](<../.gitbook/assets/image (10) (1) (1).png>)_``_
 
 ### Unset all paddings
 

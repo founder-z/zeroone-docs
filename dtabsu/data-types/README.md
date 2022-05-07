@@ -25,3 +25,7 @@ You can set `Default value` for this field. When record created without data for
 {% hint style="info" %}
 **Field type** and **Unique** cannot be changed after field already created
 {% endhint %}
+
+{% content-ref url="field-types.md" %}
+[field-types.md](field-types.md)
+{% endcontent-ref %}

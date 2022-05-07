@@ -6,33 +6,31 @@ You can set a color for text. You can pick a coolor from color picker, or by typ
 
 ## Font family
 
-Font families can be set from the Fonts dropdown.
+Font can be set from the Fonts dropdown.
 
-<img src="../.gitbook/assets/image (10).png" alt="" data-size="original">
-
-### Font type
+<img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="original">
 
 At Zero One, you can use a wide variety of font families such as Noto sans jp and Lato.
 
-## The thickness
+## Weight
 
-The thickness can be set from Editor Page> Appearance> Format> Thickness.
+The thickness can be set from Weight dropdown in Typography.
 
 ### Kind of thickness
 
-There are five types of thickness: fine, normal, medium, medium, and bold.
+There are five types of thickness, from thin to thick: Light, Normal, Medium, Semi Bold, Bold.&#x20;
 
 ## Size
 
-The font size can be set from Editor Page> Appearance> Format> Size. The font size is represented by px, rem, em,%.
+The font size can be set using Size input in Typegraphy. The font size is represented by px, rem, em,%. [Learn more about CSS units](css-units.md)
 
-## Placement
+## Text alignment
 
-You can change the text layout on the left, center, and right.
+You can change the text layout on the `left`, `center`, `right` or `justify` using buttons showed below:
 
-### Justify
+``<img src="../.gitbook/assets/image (10).png" alt="" data-size="original">``
 
-You can evenly divide the elements.
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
 
 ## Decoration
 

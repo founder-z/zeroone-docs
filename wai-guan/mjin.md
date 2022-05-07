@@ -24,4 +24,4 @@ __![](<../.gitbook/assets/image (9) (1).png>)__
 
 To unset all margins **right click** on `Margin` title and select _`(unset)`_.  &#x20;
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
