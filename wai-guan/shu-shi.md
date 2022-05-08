@@ -30,7 +30,7 @@ The font size can be set using Size input in Typegraphy. The font size is repres
 
 You can change the text layout on the `left`, `center`, `right` or `justify` using buttons showed below:
 
-``<img src="../.gitbook/assets/image (10).png" alt="" data-size="original">``
+``<img src="../.gitbook/assets/image (11) (1) (1).png" alt="" data-size="original">``
 
 [Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
 
