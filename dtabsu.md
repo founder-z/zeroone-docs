@@ -21,7 +21,7 @@ User table cannot be editted.
 
 You can delete the table from the trash can icon.
 
-![](<.gitbook/assets/image (5) (1).png>)
+![](<.gitbook/assets/image (5) (1) (2).png>)
 
 {% hint style="info" %}
 User table cannot be deleted
