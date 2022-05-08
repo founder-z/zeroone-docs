@@ -28,7 +28,7 @@ To see how element will appear when matched variant condition press on `View var
 
 Click `Turn off variant` to stop preview.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 
 

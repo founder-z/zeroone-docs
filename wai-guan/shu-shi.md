@@ -8,7 +8,7 @@ You can set a color for text. You can pick a color from color-picker, or by typi
 
 Font can be set from the Fonts dropdown.
 
-<img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (10) (1) (1).png" alt="" data-size="original">
 
 At Zero One, you can use a wide variety of font families such as Noto sans jp and Lato.
 
@@ -30,7 +30,7 @@ The font size can be set using Size input in Typegraphy. The font size is repres
 
 You can change the text layout on the `left`, `center`, `right` or `justify` using buttons showed below:
 
-``<img src="../.gitbook/assets/image (10).png" alt="" data-size="original">``
+``<img src="../.gitbook/assets/image (10) (1).png" alt="" data-size="original">``
 
 [Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
 

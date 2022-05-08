@@ -13,7 +13,7 @@ You can specify the width of an element as fixed or responsive.&#x20;
 
 Width field can accept both absolute and relative length units. Please see [CSS units](css-units.md)
 
-![](<../.gitbook/assets/image (3) (1).png>)\
+![](<../.gitbook/assets/image (3) (1) (1).png>)\
 Clicking on this button switches width between "hug-content" and "stretch" options\
 \
 [Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
