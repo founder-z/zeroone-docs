@@ -2,6 +2,12 @@
 
 This section allows you to specify image-fit type and alignment.
 
+{% hint style="info" %}
+Please set image element size to `object-fit` work properly
+
+e.g [Width & Height to `stretch` ](size.md#width)``
+{% endhint %}
+
 ## Image size
 
 Represents `object-fit` CSS property.
