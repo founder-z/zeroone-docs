@@ -11,7 +11,7 @@ Options:
 
 [Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/flex-direction)
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (2).png>)
 
 The left side layout section allows you to specify css `justify-content`, `align-items`, `align-content` properties.
 
