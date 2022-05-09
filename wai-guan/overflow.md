@@ -8,6 +8,6 @@ By default, its value is `visible`.
 * hidden - the content will be hidden if it overflows the boundaries of its container.
 * scroll - the content is clipped and the scrollbars are added to the container.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 [Learn more](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow)
