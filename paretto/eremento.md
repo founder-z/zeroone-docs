@@ -2,15 +2,15 @@
 
 ## Text
 
-Text elements can fill text dynamically or statically.
+Text is a basic element. It can be used to display text. Can be set static or dynamic.
 
 ## HTML
 
-Using HTML element you can create custom elements.&#x20;
+Using HTML element you can create any HTML element. 
 
 ## Button
 
-Button elements are the elements that users click to trigger a workflow.
+Button elements are the elements that users click to trigger a workflow. 
 
 ## Link
 
@@ -18,14 +18,13 @@ A link element is a special element that takes a user to a page in your app or w
 
 ## Icon
 
-Icon elements can create a wide variety of icons from properties for free.
+This element is used to display small figures.
+You select variety of icons to display from a dropdown in Icon property.
 
 ## Image
 
-Image elements can insert images by selecting a file from the property source.
+Use this element to display an image. You can set the image source from a bucket or from a URL.
 
 ## Video
 
-Upload an mp4 file or select a dynamic video to use as the background.
-
-##
+Use this element to display a video. You can set the video source from a bucket or from a URL.
