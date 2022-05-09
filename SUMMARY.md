@@ -62,7 +62,6 @@
     * [Icon props](puropati/basic-elements/icon-props.md)
     * [Image props](puropati/basic-elements/image-props.md)
     * [Video props](puropati/basic-elements/video-props.md)
-  * [Page 1](puropati/page-1.md)
   * [Content](puropati/content.md)
   * [Number of fixed columns](puropati/number-of-fixed-columns.md)
   * [Number of fixed rows](puropati/number-of-fixed-rows.md)
