@@ -10,7 +10,6 @@ Sets the provider of the video or select as file from a bucket.
 
 e.g. YouTube
 
-## YouTube as a provider
 
 ## File as a provider
 
@@ -51,3 +50,18 @@ A URL to a poster image file that is to be displayed before the video starts pla
 ### Loop
 
 A Boolean attribute indicating that the video should start over as soon as it ends.
+
+## YouTube as a provider
+
+If you set the provider as YouTube, you will have `Video Id` instead of `Source`.
+
+If you are on watching a video, ID will be located in the URL of the video page, right after the v= URL parameter.
+
+In this case, the URL of the video is: https://www.youtube.com/watch?v=aqz-KE-bpKQ. 
+Therefore, the ID of the video is aqz-KE-bpKQ.
+
+The youtu.be URLs are created by generating a URL intendend for sharing. 
+They differ slightly from youtube.com URLs because there are no URL parameters. 
+Instead, the video ID is part of the URL itself.
+
+In this case, the URL of the video is: https://youtu.be/aqz-KE-bpKQ. Therefore, the ID of the video is aqz-KE-bpKQ.
