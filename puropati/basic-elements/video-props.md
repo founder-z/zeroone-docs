@@ -10,7 +10,6 @@ Sets the provider of the video or select as file from a bucket.
 
 e.g. YouTube
 
-
 ## File as a provider
 
 ### Source
@@ -55,13 +54,18 @@ A Boolean attribute indicating that the video should start over as soon as it en
 
 If you set the provider as YouTube, you will have `Video Id` instead of `Source`.
 
-If you are on watching a video, ID will be located in the URL of the video page, right after the v= URL parameter.
+If you are on watching a video, ID will be located in the URL of the video page, right after the `v=` URL parameter.
 
-In this case, the URL of the video is: https://www.youtube.com/watch?v=aqz-KE-bpKQ. 
-Therefore, the ID of the video is aqz-KE-bpKQ.
+![](<../../.gitbook/assets/image (5).png>)
 
-The youtu.be URLs are created by generating a URL intendend for sharing. 
-They differ slightly from youtube.com URLs because there are no URL parameters. 
-Instead, the video ID is part of the URL itself.
+In this case, the URL of the video is: `https://www.youtube.com/watch?v=aqz-KE-bpKQ`. Therefore, the ID of the video is `aqz-KE-bpKQ`.
 
-In this case, the URL of the video is: https://youtu.be/aqz-KE-bpKQ. Therefore, the ID of the video is aqz-KE-bpKQ.
+
+
+### Getting Video Id from youtu.be&#x20;
+
+The youtu.be URLs are created by generating a URL intendend for sharing. They differ slightly from youtube.com URLs because there are no URL parameters. Instead, the video ID is part of the URL itself.
+
+![](<../../.gitbook/assets/image (10).png>)
+
+In this case, the URL of the video is: `https://youtu.be/aqz-KE-bpKQ`. Therefore, the ID of the video is `aqz-KE-bpKQ`.
