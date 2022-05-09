@@ -1,2 +1,0 @@
-# UI builder props
-
