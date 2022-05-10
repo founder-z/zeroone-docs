@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Home](hmu/README.md)
   * [Introduction of Zero One](hmu/zerowanno.md)
+  * [Custom domain](hmu/custom-domain.md)
   * [Main interface](hmu/pjiedit.md)
 * [Page editor](page-editor/README.md)
   * [Page list](page-editor/page-list.md)
