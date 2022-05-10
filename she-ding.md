@@ -70,7 +70,9 @@ There you can set content for automatic mail messages, like Registration confirm
 
 ### Default page settings
 
-These settings is for optimizing you app for Search engines such as Google etc.
+These settings is for optimizing you app for Search engines such as Google etc.&#x20;
+
+[Learn more about SEO](https://searchengineland.com/guide/what-is-seo)
 
 #### Title
 
@@ -86,11 +88,19 @@ You can set the description of the page created by Zero One when viewed with a w
 
 ### Open Graph settings
 
+Using settings below you can set how preview of a link to your app will appear, for example, i messenger.
+
 #### Title
+
+Here you specify preview title for a link to your app.
 
 #### Site name
 
+Here you specify site name for a link to your app.
+
 #### Description
+
+Here you specify descrription for a link to your app.
 
 ## **PWA**
 
