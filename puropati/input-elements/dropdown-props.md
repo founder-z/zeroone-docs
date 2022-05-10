@@ -6,7 +6,7 @@ Beside the [Common properties](../common-properties.md), this element contains f
 
 The options are the items that will be displayed in the dropdown. To specify the options, you need to separate the options with a new line.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (2).png>)
 
 ## Default value
 

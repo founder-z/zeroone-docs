@@ -77,7 +77,11 @@ Live environtment is read-only, meaning that you cannot edit anything while in i
 
 ### Deploy to live
 
+If you want to push changes you made in Development environment to Live you need to be in Development environment first.&#x20;
 
+To Deploy, first click Environment button, then click `Deploy current version to live`, give new deployment a name and, if needed, copy database, storage or settings, then press `OK` button.&#x20;
+
+![](<../.gitbook/assets/image (14).png>)
 
 ### Export
 
