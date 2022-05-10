@@ -70,6 +70,8 @@ There you can set content for automatic mail messages, like Registration confirm
 
 ### Default page settings
 
+These settings is for optimizing you app for Search engines such as Google etc.
+
 #### Title
 
 You can set the title of the page created by Zero One.
