@@ -56,7 +56,20 @@ To **load from a save point** click on `Development` button, click `History` and
 
 ### Environment
 
+When working on your app in ZeroOne you can have two different environments, Development and Live. Separate environmet is beneficial when you need to change something in your app and test how it looks like, but you dont want end-users see intermediate result.
 
+{% hint style="info" %}
+If you need to preview your development environment - go to:&#x20;
+
+_your-app-name_.**dev**.app.thezeroone.io\
+
+
+Live environment preview is _your-app-name_.app.thezeroone.io without **dev.**
+{% endhint %}
+
+{% hint style="info" %}
+Live environtment is read-only, meaning that you cannot edit anything while in it.
+{% endhint %}
 
 ### Deploy to live
 
