@@ -91,9 +91,9 @@ If needed, you can Export your project as a template. This is used when you wann
 
 ### Preview
 
+Using this button you can go to your app page, like as you were an end user. If you are in Development environment - you will be redirected to _your-app-name_.**dev**.app.thezeroone.io. But if you are on Live environment you will be redirected to   _your-app-name._app.thezeroone.io without **dev**. The page you will be redirected to is the page you are on editor now.&#x20;
 
-
-
+e.g. If you are editing Home page of your app in Development environment, then you'll be redirected to https://_your-app-name.**dev**._app.thezeroone.io/
 
 ## Left side tabs
 
