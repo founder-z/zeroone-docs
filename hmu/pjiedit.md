@@ -85,7 +85,9 @@ To Deploy, first click Environment button, then click `Deploy current version to
 
 ### Export
 
+If needed, you can Export your project as a template. This is used when you wanna create multiple apps based on similar structure or having same style. To do so, click Export button, give it a name, add Preview image, write description if you need, and click `OK` button.
 
+![](<../.gitbook/assets/image (10).png>)
 
 ### Preview
 

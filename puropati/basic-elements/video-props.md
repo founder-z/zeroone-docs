@@ -66,6 +66,6 @@ In this case, the URL of the video is: `https://www.youtube.com/watch?v=aqz-KE-b
 
 The youtu.be URLs are created by generating a URL intendend for sharing. They differ slightly from youtube.com URLs because there are no URL parameters. Instead, the video ID is part of the URL itself.
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (3).png>)
 
 In this case, the URL of the video is: `https://youtu.be/aqz-KE-bpKQ`. Therefore, the ID of the video is `aqz-KE-bpKQ`.

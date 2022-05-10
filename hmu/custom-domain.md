@@ -8,7 +8,7 @@ For this example we will use project name as `zeroone-enterprice` and AWS Route 
 
 1. Go to AWS Route 53 and setup CNAME record. Record name = enterprise, Value = [zeroone-enterprise.app.thezeroone.io](http://zeroone-enterprise.app.thezeroone.io)&#x20;
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 2\. Check and remove all conflicting NS and  A records for your domain
 
