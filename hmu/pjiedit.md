@@ -149,4 +149,6 @@ On the \[Translation] tab, set the language of the error sentence displayed in Z
 
 On the \[Settings] tab, you can set the favicon and the language in the editor.
 
+[Learn more about Settings](../she-ding.md)
+
 ####
