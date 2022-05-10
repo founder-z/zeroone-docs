@@ -52,7 +52,7 @@ This section includes various Open Autorization Providers that can be used to au
 
 ### SMTP settings
 
-If you have SMTP server, this section is used to configure it. SMTP  is an internet standard communication protocol for electronic mail transmission.&#x20;
+If you have SMTP server, this section is used to configure it. SMTP is an internet standard communication protocol for electronic mail transmission.&#x20;
 
 [Learn more about SMTP](https://en.wikipedia.org/wiki/Simple\_Mail\_Transfer\_Protocol)
 
@@ -68,17 +68,27 @@ There you can set content for automatic mail messages, like Registration confirm
 
 ## SEO
 
-### Title
+### Default page settings
+
+#### Title
 
 You can set the title of the page created by Zero One.
 
-### Site name
+#### Site name
 
 You can set the name of the page created by Zero One when viewed with a web browser.
 
-### Explanation
+#### Explanation
 
 You can set the description of the page created by Zero One when viewed with a web browser.
+
+### Open Graph settings
+
+#### Title
+
+#### Site name
+
+#### Description
 
 ## **PWA**
 
