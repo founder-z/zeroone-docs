@@ -16,6 +16,8 @@ For this example we will use project name as `zeroone-enterprice` and AWS Route 
 
 4\. Setup custom domain in General tab of Settings and press `Save settings` button.
 
+![](<../.gitbook/assets/image (14).png>)
+
 5\. Wait for 5-10 minutes for new configuration to apply.
 
 &#x20;
