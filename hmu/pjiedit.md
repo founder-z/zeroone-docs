@@ -64,8 +64,12 @@ If you need to preview your development environment - go to:&#x20;
 _your-app-name_.**dev**.app.thezeroone.io\
 
 
-Live environment preview is _your-app-name_.app.thezeroone.io without **dev.**
+Live environment preview is _your-app-name_.app.thezeroone.io without **dev**
 {% endhint %}
+
+To switch between environments click Environment button, then in environment list select the one you want to switch.
+
+![](../.gitbook/assets/image.png)
 
 {% hint style="info" %}
 Live environtment is read-only, meaning that you cannot edit anything while in it.

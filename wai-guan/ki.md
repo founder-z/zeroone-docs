@@ -10,7 +10,7 @@ e.g. Make button change background color from <mark style="color:blue;">Blue</ma
 
 To create variant click on triangles button on the right, and select type. Newly created variant will look the same, as element style. To change its behavior you need to [record](ki.md#record-behavior) appearance, which will be used on match.&#x20;
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ## Record/Edit behavior
 
