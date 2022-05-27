@@ -1,4 +1,4 @@
-# Input element
+# Input elements
 
 ## File input
 
@@ -11,6 +11,14 @@ Displays a labeled checkbox.
 ## Radio button
 
 It is a circular button with a hollow. If you click on radio, a dot will appear inside, indicating that it has been selected.
+
+## Radio button group
+
+Radio button group are consist of elements of type **`radio`** ([Radio buttons](inputtoeremento.md#radio-button)) are generally used in **radio groups** — collections of radio buttons describing a set of related options.
+
+Only one radio button in a given group can be selected at the same time. Radio buttons are typically rendered as small circles, which are filled or highlighted when selected.
+
+[Learn more](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
 
 ## Text Input
 
