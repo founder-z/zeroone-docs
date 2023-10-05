@@ -28,7 +28,7 @@
 * [パレット](paretto/README.md)
   * [コンテナ](paretto/kontena.md)
   * [基本エレメント](paretto/eremento.md)
-  * [入力エレメント](paretto/eremento-1.md)
+  * [入力エレメント](paretto/inputtoeremento.md)
   * [カスタム](paretto/kasutamu.md)
 * [スタイル](sutairu.md)
 * [ウィジェット](wijetto.md)

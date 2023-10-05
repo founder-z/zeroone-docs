@@ -10,8 +10,8 @@
 [eremento.md](eremento.md)
 {% endcontent-ref %}
 
-{% content-ref url="eremento-1.md" %}
-[eremento-1.md](eremento-1.md)
+{% content-ref url="inputtoeremento.md" %}
+[inputtoeremento.md](inputtoeremento.md)
 {% endcontent-ref %}
 
 {% content-ref url="kasutamu.md" %}
