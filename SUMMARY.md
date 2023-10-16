@@ -37,6 +37,7 @@
   * [静的](dta/jing-de.md)
   * [Variable](dta/variable.md)
   * [Function](dta/function.md)
+  * [文字列](dta/wen-zi-lie.md)
   * [比較と演算子](dta/to.md)
   * [検索](dta/jian-suo.md)
   * [プライバシー](dta/puraibash.md)
