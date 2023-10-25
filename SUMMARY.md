@@ -40,7 +40,6 @@
   * [文字列](dta/wen-zi-lie.md)
   * [配列、計算と日付](dta/to.md)
   * [比較と演算子](dta/to-1.md)
-  * [検索](dta/jian-suo.md)
   * [プライバシー](dta/puraibash.md)
 * [スタイル](sutairu.md)
 * [ウィジェット](wijetto.md)
